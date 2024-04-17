@@ -20,7 +20,7 @@ seo:
 
 ---
 
-<span style="color:red">Version 9/4/2023 </span>
+<span style="color:red">Version 4/17/2024 </span>
 ​
 
 ## Course Introduction
@@ -33,7 +33,7 @@ In today's AI-driven world, building a robust deep learning model is only half t
 
 - **Location:** SEC 1.321/Winokur, 150 Western Ave, Boston
 
-- **Meeting Time:** Tuesday 03:45 PM - 05:00 PM; Thursday 03:45 PM - 05:00 PM
+- **Meeting Time:** Tuesday 12:45 PM - 02:00 PM; Thursday 12:45 PM - 02:00 PM
 
   
 
@@ -119,6 +119,7 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 - **Weekly Sessions:** Structured lectures focusing on the core topics.
 - **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
+- **Assingments**: There will be 4 individual assingments. 
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
