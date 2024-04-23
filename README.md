@@ -9,7 +9,7 @@ seo:
 ---
 
 
-# **Productionizing AI (MLOps)**: AC215, CSCIE-115.
+# **Productionizing AI (MLOps)**: AC215 
 {:.no_toc}
 
 ## Table of contents
@@ -20,12 +20,16 @@ seo:
 
 ---
 
-<span style="color:red">Version 4/17/2024 </span>
+<span style="color:red">Version 4/20/2024 </span>
 ​
 
 ## Course Introduction
 
-In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (MLOps), where we will traverse the complex landscape of Machine Learning Operations. This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments. By blending the theoretical aspects with hands-on application, we will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, among others. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. Whether you are an AI enthusiast wanting to understand the intricacies of MLOps or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI. 
+In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
+
+We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. We will delve into the particular intricacies of LLMs and their applications in real-world scenarios.
+
+Whether you are an AI enthusiast wanting to understand the intricacies of Machine Learning Operations or a seasoned professional aiming to fortify your knowledge, this course promises a comprehensive exploration of the production side of AI, with a spotlight on LLM applications and productionizing.
 
 
 
@@ -34,6 +38,12 @@ In today's AI-driven world, building a robust deep learning model is only half t
 - **Location:** SEC 1.321/Winokur, 150 Western Ave, Boston
 
 - **Meeting Time:** Tuesday 12:45 PM - 02:00 PM; Thursday 12:45 PM - 02:00 PM
+
+  
+
+## Technologies and Platforms
+
+We will demonstrate most ideas using TensorFlow and some using PyTorch, alongside utilizing the Google Cloud Platform. Additionally, tutorials will be provided for AWS for reference purposes.
 
   
 
@@ -176,14 +186,14 @@ For more information about the projects and milestones, you can either click the
 
    - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
    - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2023@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2024@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**
 
    Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You are granted a total leeway of five late days throughout the course duration, with a maximum of two late days allowed for any single milestone.
 
-   Should you need to utilize late days, please inform the class helpline via email at [ac215.2023@gmail.com](mailto:ac215.2023@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
+   Should you need to utilize late days, please inform the class helpline via email at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
 
    **Final Milestone:** It's important to note that no extensions will be permitted for the final milestone, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 
