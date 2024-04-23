@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AC215, CSCIE-115
-tagline: AC215, CSCIE-115 - Fall 2023
-description: AC215, CSCIE-115 - Fall 2023
+title: AC215 
+tagline: AC215  - Fall 2024
+description: AC215 - Fall 2024
 author: Rashmi Banthia
 # baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
 # url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
@@ -32,8 +32,8 @@ aux_links:
     - 'https://canvas.harvard.edu/'
   Ed:
     - 'https://edstem.org/us/courses/42775/discussion/3369287'
-  AC215, CSCIE-115 on GitHub:
-    - 'https://github.com/Harvard-IACS/2023-AC215'
+  AC215 on GitHub:
+    - 'https://github.com/Harvard-IACS/2024-AC215'
 footer_content:
 
 # Collections for website data
