@@ -43,7 +43,7 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ## Technologies and Platforms
 
-We will demonstrate most ideas using TensorFlow and some using PyTorch, alongside utilizing the Google Cloud Platform. Additionally, tutorials will be provided for AWS for reference purposes. 
+We will demonstrate most ideas using TensorFlow and some using PyTorch, alongside utilizing the Google Cloud Platform. Additionally, tutorials will be provided for AWS for reference purposes. [TBD]
 
   
 
@@ -129,7 +129,7 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 - **Weekly Sessions:** Structured lectures focusing on the core topics.
 - **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
-- **Assingments**: There will be 4 individual assingments. 
+- **Assignments**: There will be 4 individual assingments. 
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
@@ -169,14 +169,14 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2023-AC215/milestone1/) | 5      |
-| [MS2](https://harvard-iacs.github.io/2023-AC215/milestone2/) | 10     |
-| [MS3](https://harvard-iacs.github.io/2023-AC215/milestone3/) | 15     |
-| [MS4](https://harvard-iacs.github.io/2023-AC215/milestone4/) | 25     |
-| [MS5](https://harvard-iacs.github.io/2023-AC215/milestone5/) | 10     |
-| [MS6](https://harvard-iacs.github.io/2023-AC215/milestone6/) | 35     |
+| [MS1](https://harvard-iacs.github.io/2024-AC215/milestone1/) | 5      |
+| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 10     |
+| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 15     |
+| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 25     |
+| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 10     |
+| [MS6](https://harvard-iacs.github.io/2024-AC215/milestone6/) | 35     |
 
-For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2023-AC215/projects/).
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-AC215/projects/).
 
 
 ## Course Policies  
