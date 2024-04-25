@@ -20,7 +20,7 @@ seo:
 
 ---
 
-<span style="color:red">Version 4/20/2024 </span>
+<span style="color:red">Version 4/20/2024 - WIP </span>
 ​
 
 ## Course Introduction
@@ -43,7 +43,7 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ## Technologies and Platforms
 
-We will demonstrate most ideas using TensorFlow and some using PyTorch, alongside utilizing the Google Cloud Platform. Additionally, tutorials will be provided for AWS for reference purposes.
+We will demonstrate most ideas using TensorFlow and some using PyTorch, alongside utilizing the Google Cloud Platform. Additionally, tutorials will be provided for AWS for reference purposes. 
 
   
 
