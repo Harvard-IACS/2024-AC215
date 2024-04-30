@@ -1,12 +1,14 @@
 ---
-title: Week 3 - Data
+title: Week 3 - Containers
 ---
 
+Sep 17
+: Containers I
+  : [Lecture 5](../assets/lectures/lecture5/under-construction-gif-17.gif)
+
+
 Sep 19
-: Data Pipelines: Extract, Transform, Labeling, Versioning
-  : [Lecture 5](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
-
-
-Sep 21
-: Dask	
-  : [Lecture 6](assets/lectures/AC215 Lecture 1 Placeholder.pdf)
+: Containers II	
+  : [Lecture 6](../assets/lectures/lecture6/under-construction-gif-17.gif) &nbsp; 
+  
+: [**M1 due**](https://harvard-iacs.github.io/2023-AC215/milestone1/){: .label .label-red }

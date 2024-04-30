@@ -252,46 +252,46 @@
     "relUrl": "/schedule/"
   },"36": {
     "doc": "Schedule and Calendar",
-    "title": "Week 1 - Introduction, Virtual Environments and Virtual Machines",
-    "content": "Sep 03 Introduction Lecture 1 ,   Setup &amp; Installation Sep 05 Lecture 2 ",
-    "url": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines",
+    "title": "Week 1 - Introduction, LLM tools",
+    "content": "Sep 03 Introduction Lecture 1 ,   Setup &amp; Installation Sep 05 LLM tools and agents 1: LangChain, LlamaIndex, API calls, RAG, AI agents Lecture 2 ",
+    "url": "/schedule/#week-1-introduction-llm-tools",
     
-    "relUrl": "/schedule/#week-1-introduction-virtual-environments-and-virtual-machines"
+    "relUrl": "/schedule/#week-1-introduction-llm-tools"
   },"37": {
     "doc": "Schedule and Calendar",
-    "title": "Week 2 - Containers",
-    "content": "Sep 12 Containers I Lecture 3 Sep 14 Containers II Lecture 4 M 1 due ",
-    "url": "/schedule/#week-2-containers",
+    "title": "Week 2 - LLM tools, Virtual Environments",
+    "content": "Sep 10 LLM tools and agents 1: LangChain, LamaIndex, API calls, RAG, AI agents Lecture 3 Sep 12 Virtual Enviroments and Virtual Machines Lecture 4 ",
+    "url": "/schedule/#week-2-llm-tools-virtual-environments",
     
-    "relUrl": "/schedule/#week-2-containers"
+    "relUrl": "/schedule/#week-2-llm-tools-virtual-environments"
   },"38": {
     "doc": "Schedule and Calendar",
-    "title": "Week 3 - Data",
-    "content": "Sep 19 Data Pipelines: Extract, Transform, Labeling, Versioning Lecture 5 Sep 21 Dask Lecture 6 ",
-    "url": "/schedule/#week-3-data",
+    "title": "Week 3 - Containers",
+    "content": "Sep 17 Containers I Lecture 5 Sep 19 Containers II Lecture 6   M1 due . ",
+    "url": "/schedule/#week-3-containers",
     
-    "relUrl": "/schedule/#week-3-data"
+    "relUrl": "/schedule/#week-3-containers"
   },"39": {
     "doc": "Schedule and Calendar",
-    "title": "Week 4 - Data and Models",
-    "content": "Sep 26 TF Data and TF Records Lecture 7 M 2 due Sep 28 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), kubeflow Lecture 8 ",
-    "url": "/schedule/#week-4-data-and-models",
+    "title": "Week 4 - Data",
+    "content": "Sep 24 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 7 Sep 26 TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage Lecture 8 HW 1 due ",
+    "url": "/schedule/#week-4-data",
     
-    "relUrl": "/schedule/#week-4-data-and-models"
+    "relUrl": "/schedule/#week-4-data"
   },"40": {
     "doc": "Schedule and Calendar",
-    "title": "Week 5 - Project Week",
-    "content": "M 3 due . ",
-    "url": "/schedule/#week-5-project-week",
+    "title": "Week 5 - Data, Advanced training workflows",
+    "content": "Oct 1 Large Data for CV and LLMs (spezialized tools) Lecture 9 Oct 3 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 10 ",
+    "url": "/schedule/#week-5-data-advanced-training-workflows",
     
-    "relUrl": "/schedule/#week-5-project-week"
+    "relUrl": "/schedule/#week-5-data-advanced-training-workflows"
   },"41": {
     "doc": "Schedule and Calendar",
-    "title": "Week 6 - Model",
-    "content": "Oct 10 Distillation/Quantization/Compression, TF lite Lecture 9 Oct 12 Model performance monitoring, data drift, or other post release items to be aware of Lecture 10 ",
-    "url": "/schedule/#week-6-model",
+    "title": "Week 6 - Project Week",
+    "content": "Oct 8 Project Oct 10 Project M3 due . ",
+    "url": "/schedule/#week-6-project-week",
     
-    "relUrl": "/schedule/#week-6-model"
+    "relUrl": "/schedule/#week-6-project-week"
   },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 7 - ML Workflow Management",

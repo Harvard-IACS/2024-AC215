@@ -1,4 +1,15 @@
 ---
+title: Week 6 - Project Week
+---
+Oct 8
+: Project 
+
+Oct 10
+: Project 
+
+: [**M3 due**](https://harvard-iacs.github.io/2023-AC215/milestone3/){: .label .label-red }
+
+<!-- ---
 title: Week 6 - Model   
 ---
 
@@ -9,3 +20,4 @@ Oct 10
 Oct 12 
 : Model performance monitoring, data drift, or other post release items to be aware of
   : [Lecture 10](assets/lectures/AC215 Lecture 10 Placeholder.pdf)
+ -->

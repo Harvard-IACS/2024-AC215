@@ -1,12 +1,12 @@
 ---
-title: Week 4 - Data and Models
+title: Week 4 - Data
 ---
 
-Sep 26
-: TF Data and TF Records
-  : [Lecture 7](assets/lectures/AC215 Lecture 7 Placeholder.pdf)
-: [**M 2 due**](https://harvard-iacs.github.io/2023-AC215/milestone2/){: .label .label-red }
+Sep 24
+: Data Pipelines/ Data Management: Extract, Transform, Data Version 
+  : [Lecture 7](../assets/lectures/lecture7/under-construction-gif-17.gif)
 
-Sep 28
-: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), kubeflow
-  : [Lecture 8](assets/lectures/AC215 Lecture 8 Placeholder.pdf)
+Sep 26
+: TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage
+  : [Lecture 8](../assets/lectures/lecture8/under-construction-gif-17.gif)
+: [**HW 1 due**](){: .label .label-red }

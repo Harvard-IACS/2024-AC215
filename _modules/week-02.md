@@ -1,12 +1,12 @@
 ---
-title: Week 2 - Containers
+title: Week 2 - LLM tools, Virtual Environments
 ---
 
-Sep 12
-: Containers I
-  : [Lecture 3](../assets/lectures/lecture3/02_containers_part1.pdf)
+Sep 10
+: LLM tools and agents 1: LangChain, LamaIndex, API calls, RAG, AI agents  
+  : [Lecture 3](../assets/lectures/lecture3/under-construction-gif-17.gif) 
+  
 
-Sep 14
-: Containers II
-  : [Lecture 4](../assets/lectures/lecture3/02_containers_part2.pdf)
-: [**M 1 due**](https://harvard-iacs.github.io/2023-AC215/milestone1/){: .label .label-red }
+Sep 12
+: Virtual Enviroments and Virtual Machines
+  : [Lecture 4](../assets/lectures/lecture4/under-construction-gif-17.gif) 
