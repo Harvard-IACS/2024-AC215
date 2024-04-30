@@ -1,6 +1,6 @@
 ---
 layout: home
-title: AC215, CSCIE-115
+title: AC215 
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -9,7 +9,7 @@ seo:
 ---
 
 
-# **Productionizing AI (LLM- ML-Ops)**: AC215 
+# **Productionizing AI (LLMML-Ops)**: AC215 
 {:.no_toc}
 
 ## Table of contents
