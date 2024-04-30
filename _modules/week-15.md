@@ -1,5 +1,5 @@
 ---
-title: Week 15 - Presentations
+title: Week 15 - Projects
 ---
 
 Dec 11
