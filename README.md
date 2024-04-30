@@ -9,7 +9,7 @@ seo:
 ---
 
 
-# **Productionizing AI (MLOps)**: AC215 
+# **Productionizing AI (LLMOps and MLOps)**: AC215 
 {:.no_toc}
 
 ## Table of contents
@@ -54,7 +54,8 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
 
 1. **Introduction:** 
    - Begin with an understanding of the importance of MLOps and how it fits in the broader AI and software development ecosystem.
-   ​
+1. **LLM Topics:** 
+   - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
 2. **Virtual Environments and Virtual Machines:** 
    - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
    ​
