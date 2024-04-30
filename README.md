@@ -9,7 +9,7 @@ seo:
 ---
 
 
-# **Productionizing AI (LLMOps and MLOps)**: AC215 
+# **Productionizing AI (LLM- ML-Ops)**: AC215 
 {:.no_toc}
 
 ## Table of contents
@@ -43,13 +43,12 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ## Technologies and Platforms
 
-We will demonstrate most ideas using TensorFlow and some using PyTorch, alongside utilizing the Google Cloud Platform. Additionally, tutorials will be provided for AWS for reference purposes. [TBD]
+We will demonstrate most ideas using TensorFlow and some using PyTorch,  utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes. 
 
   
-
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of MLOps. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of LLM-MLOps. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
 
 
 1. **Introduction:** 
@@ -63,7 +62,7 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
    ​
 4. **Data Pipelines, Dask, & Cloud Storage:** 
-   - Learn to create efficient data workflows, use Dask for parallel computing, and understand how cloud storage solutions fit into the MLOps ecosystem.
+   - Learn to create efficient data workflows, use Dask for parallel computing, and understand how cloud storage solutions fit into the LLMMLOps ecosystem.
    ​
 5. **TF Data and TF Records:** 
    - Dive into TensorFlow-specific methods for data ingestion and management, ensuring efficient data preprocessing and storage for your models.
