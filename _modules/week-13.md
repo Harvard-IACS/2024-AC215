@@ -1,16 +1,13 @@
 ---
-title: Week 13 - Scaling & Deployment
+title: Week 13 - Thanksgiving
 ---
 
 
-Nov 28
-: Scaling: Kubernetes
-  : [Lecture 18](assets/lectures/AC215 Lecture 18 Placeholder.pdf)
+Nov 26 
+: Thanksgiving Week
 
-Nov 30
-: Deployment: Ansible
-  : [Lecture 19](assets/lectures/AC215 Lecture 19 Placeholder.pdf)
-
+Nov 38
+: Thanksgiving Week
   
 
   

@@ -2,13 +2,13 @@
 title: Week 10 - App Development 
 ---
 
+Nov 5
+: App design, setup and code organization 
+  : [Lecture 16](../assets/lectures/lecture16/under-construction-gif-17.gif)
+
 Nov 7
 : APIs & Frontend	
-  : [Lecture 15](assets/lectures/AC215 Lecture 15 Placeholder.pdf)
-
-Nov 9
-: Deployment	
-  : [Lecture 16](assets/lectures/AC215 Lecture 16 Placeholder.pdf)
+  : [Lecture 17](../assets/lectures/lecture17/under-construction-gif-17.gif)
 
   
   

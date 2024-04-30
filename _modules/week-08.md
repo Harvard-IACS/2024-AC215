@@ -1,7 +1,10 @@
 ---
-title: Week 8 - Midterm presentations 
+title: Week 8 - Midterm , Model Performance Monitoring 
 ---
 
-Oct 26 
-: Midterm presentations
-: [**M 4 due**](https://harvard-iacs.github.io/2023-AC215/milestone4/){: .label .label-red }
+Oct 22
+: Midterm [??]
+
+Oct 24
+: Model performance monitoring, data drift, or other post release items - LangChain
+: [Lecture 13](../assets/lectures/lecture13/under-construction-gif-17.gif)

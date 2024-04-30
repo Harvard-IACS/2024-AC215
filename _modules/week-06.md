@@ -7,17 +7,4 @@ Oct 8
 Oct 10
 : Project 
 
-: [**M3 due**](https://harvard-iacs.github.io/2023-AC215/milestone3/){: .label .label-red }
-
-<!-- ---
-title: Week 6 - Model   
----
-
-Oct 10
-: Distillation/Quantization/Compression, TF lite
-  : [Lecture 9](assets/lectures/AC215 Lecture 9 Placeholder.pdf)
-
-Oct 12 
-: Model performance monitoring, data drift, or other post release items to be aware of
-  : [Lecture 10](assets/lectures/AC215 Lecture 10 Placeholder.pdf)
- -->
+: [**M3 due**](https://harvard-iacs.github.io/2024-AC215/milestone3/){: .label .label-red }
