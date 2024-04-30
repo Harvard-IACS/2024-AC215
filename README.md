@@ -129,7 +129,7 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 - **Weekly Sessions:** Structured lectures focusing on the core topics.
 - **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
-- **Assignments**: There will be 4 individual assingments. 
+- **Assignments**: There will be 3 individual assingments. 
 - **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
 - **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
@@ -169,12 +169,15 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1](https://harvard-iacs.github.io/2024-AC215/milestone1/) | 5      |
-| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 10     |
-| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 15     |
-| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 25     |
-| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 10     |
-| [MS6](https://harvard-iacs.github.io/2024-AC215/milestone6/) | 35     |
+| [MS1](https://harvard-iacs.github.io/2024-AC215/milestone1/) | 4     |
+| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 9    |
+| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 12   |
+| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 22    |
+| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 9    |
+| [MS6](https://harvard-iacs.github.io/2024-AC215/milestone6/) | 32    |
+| [HW1](https://harvard-iacs.github.io/2024-AC215/HW1/) | 4    |
+| [HW2](https://harvard-iacs.github.io/2024-AC215/HW2/) | 4    |
+| [HW3](https://harvard-iacs.github.io/2024-AC215/HW3/) | 4    |
 
 For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-AC215/projects/).
 
