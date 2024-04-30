@@ -215,6 +215,23 @@ For more information about the projects and milestones, you can either click the
 5. **Feedback & Evaluation:**
    - Continuous feedback is vital for the learning process. While the course has several grading components, always focus on understanding rather than just marks. Do provide feedback on the course structure, content, and delivery, so we can continually improve.
 
+## Policy on Usage of Publicly Available Class Material
+
+1. **Permitted Use**: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only.
+
+2. **Prohibited Use**: 
+   - Selling or commercializing any part of the Class Material.
+   - Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor.
+   - Modifying or altering the Class Material to create derivative works.
+
+3. **Attribution**: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor's name, course title, and institution).
+
+4. **Enforcement**: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable.
+
+#### Consent:
+
+By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy.
+
 
 
 ## Accessibility:
