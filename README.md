@@ -9,7 +9,7 @@ seo:
 ---
 
 
-# **Productionizing AI (LLMML-Ops)**: AC215 
+# **Productionizing AI (AI-Ops)**: AC215 
 {:.no_toc}
 
 ## Table of contents
@@ -20,7 +20,7 @@ seo:
 
 ---
 
-<span style="color:red">Version 4/20/2024 - WIP </span>
+<span style="color:red">Version 4/30/2024 - WIP </span>
 ​
 
 ## Course Introduction
@@ -45,42 +45,31 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 We will demonstrate most ideas using TensorFlow and some using PyTorch,  utilizing the Google Cloud Platform (GCP). Additionally, tutorials will be provided for AWS for reference purposes. 
 
-  
+
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of LLM-MLOps. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
+We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
 
 
 1. **Introduction:** 
-   - Begin with an understanding of the importance of MLOps and how it fits in the broader AI and software development ecosystem.
+   - Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem.
 1. **LLM Topics:** 
    - Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we'll look at some of these tools, such as LangChain, LamaIndex, and API calls. We'll also explore RAGS and AI agents, which make it easy to work with LLMs.
 2. **Virtual Environments and Virtual Machines:** 
    - Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware.
-   ​
 3. **Containers:** 
    - Understand the concept of containerization using tools like Docker, and how they differ from virtual machines.
-   ​
-4. **Data Pipelines, Dask, & Cloud Storage:** 
-   - Learn to create efficient data workflows, use Dask for parallel computing, and understand how cloud storage solutions fit into the LLMMLOps ecosystem.
-   ​
-5. **TF Data and TF Records:** 
-   - Dive into TensorFlow-specific methods for data ingestion and management, ensuring efficient data preprocessing and storage for your models.
-   ​
-6. **Data Parallelization:** 
-   - Grasp techniques for distributing data processing tasks across multiple processors or nodes.
-   ​
-7. **Data Versioning:** 
-   - Explore tools like Pachyderm, and understand the significance of maintaining different versions of datasets for reproducibility and model training.
-   ​
+4. **Data Pipelines, & Cloud Storage:** 
+   
+   - Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch's Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
+     ​
 8. **Advanced Training Workflows:** 
-   - Deep dive into experiment tracking using tools like Weights & Biases, and harness the power of multi-GPU setups for faster model training.
-   ​
+   - We'll explore advanced training (experiment tracking, multi-GPU, serverless, LLM fine-tuning), model optimization (distillation, quantization, compression) 
 9. **Advanced Inference Workflows:** 
    - Understand the nuances of model optimization techniques like Distillation, Quantization, and Compression. Explore TensorFlow Lite, monitor your models post-deployment, and be prepared for challenges like data drift.
    ​
 10. **Pipeline:** 
-       - Study end-to-end MLOps pipelines, their components, and best practices to ensure smooth model deployments..
+       - Study end-to-end AI-Ops pipelines, their components, and best practices to ensure smooth model deployments..
     ​
 11. **App Design, Setup, and Code Organization:** 
        - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
@@ -110,7 +99,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
    - A working knowledge of the TensorFlow (or PyTorch) framework is crucial, as many topics will delve into its functionalities and methods. Understanding TensorFlow's basic operations, data handling, and model building mechanisms will be invaluable.
    ​
 3. **Basic Shell Commands:** 
-   - Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many MLOps tasks.
+   - Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks.
    ​
 4. **Basic Data Structures:** 
    - A good grasp of Python's primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data.
@@ -119,7 +108,7 @@ To ensure a seamless learning experience and to make the most of this course, pa
    - Knowledge of basic file input/output operations in Python, including reading from and writing to files, is vital for tasks involving data storage and manipulation.
    ​
 6. **General AI and ML Concepts:** 
-   - While this course is centered around MLOps, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics.
+   - While this course is centered around AI-Ops, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics.
 
 It's important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you're not an expert in all of the prerequisites, a willingness to learn and engage actively in the course's hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding.
    ​
@@ -127,16 +116,18 @@ It's important to note that while prior knowledge in these areas will provide a 
 
 ## Course Components
 
-- **Weekly Sessions:** Structured lectures focusing on the core topics.
-- **Office Hours:** This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. 
-- **Assignments**: There will be 3 individual assingments. 
-- **Team Projects:** Collaborative assignments that culminate in the creation of a fully functional AI app.
-- **Discussion Forums:** Platforms for peer-to-peer learning, discussions, and knowledge sharing.
+- **Sessions:** Structured lectures focusing on the core topics.
+- **Office Hours:** Dedicated time with your Teaching Fellow (TF) for questions, clarifications, or project guidance.
+- **Individual Assignments (3):** These assignments ensure you grasp key learning objectives.
+- **Team Projects:** Collaborate with classmates to build a fully functional AI application.
+- **Discussion Forums:** Engage in peer-to-peer learning, discussions, and knowledge sharing.
 - **Supplementary Readings:** To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course.
+
+
 
 **Team Projects: Project-Based Learning: Crafting Your Own AI Solutions**
 
-In the dynamic realm of AI and MLOps, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here's what you need to know:
+In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here's what you need to know:
 
 **1. Crafting Your AI Project:**
 - Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative.
@@ -155,7 +146,7 @@ In the dynamic realm of AI and MLOps, hands-on experience is paramount. This cou
 - Parallelly, students will be prompted to integrate the week's learnings into their projects, ensuring a steady progression towards their end goals.
 
 **3. Milestones and Assessment:**
-- The course will be punctuated with key milestones, designed to assess your project's evolution and your grasp of the MLOps concepts. Details of these milestones will be shared in due course.
+- The course will be punctuated with key milestones, designed to assess your project's evolution and your grasp of the AI-Ops concepts. Details of these milestones will be shared in due course.
   
 - It's imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project's holistic development and your learning journey.
 
