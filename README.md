@@ -64,13 +64,11 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
    - Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch's Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. 
      ​
 8. **Advanced Training Workflows:** 
-   - We'll explore advanced training (experiment tracking, multi-GPU, serverless, LLM fine-tuning), model optimization (distillation, quantization, compression) 
+   - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
+      
 9. **Advanced Inference Workflows:** 
-   - Understand the nuances of model optimization techniques like Distillation, Quantization, and Compression. Explore TensorFlow Lite, monitor your models post-deployment, and be prepared for challenges like data drift.
-   ​
-10. **Pipeline:** 
-       - Study end-to-end AI-Ops pipelines, their components, and best practices to ensure smooth model deployments..
-    ​
+   - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
+     ​
 11. **App Design, Setup, and Code Organization:** 
        - Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability.
     ​
