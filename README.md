@@ -137,7 +137,7 @@ In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This co
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
 **2. A Guided Demonstration by Pavlos:**
--  We, the teaching team, will undertake a project that Pavlos    [proposes](http://formaggio.me))  throughout the semester. This serves as a demonstration and reference point. 
+-  We, the teaching team, will undertake a project that Pavlos    [proposes](http://formaggio.me) throughout the semester. This serves as a demonstration and reference point. 
   
 - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students a practical insight of course concepts.
   
