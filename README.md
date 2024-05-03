@@ -65,7 +65,7 @@ We have designed an in-depth curriculum to ensure a comprehensive understanding 
      ​
 8. **Advanced Training Workflows:** 
    - We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights & Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . 
-      
+   
 9. **Advanced Inference Workflows:** 
    - Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie.  Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines.
      ​
@@ -137,7 +137,7 @@ In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This co
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
 **2. A Guided Demonstration by Pavlos:**
--  We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point.
+-  We, the teaching team, will undertake a project that Pavlos    [proposes](http://formaggio.me))  throughout the semester. This serves as a demonstration and reference point. 
   
 - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students a practical insight of course concepts.
   
