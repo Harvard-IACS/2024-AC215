@@ -10,5 +10,5 @@ Nov 7
 : APIs & Frontend	
   : [Lecture 17](../assets/lectures/lecture17/under-construction-gif-17.gif)
 
-  
+: [**HW2 due 11/18**](){: .label .label-red }
   

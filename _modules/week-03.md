@@ -11,4 +11,4 @@ Sep 19
 : Containers II	
   : [Lecture 6](../assets/lectures/lecture6/under-construction-gif-17.gif) &nbsp; 
   
-: [**M1 due**](https://harvard-iacs.github.io/2024-AC215/milestone1/){: .label .label-red }
+: [**M1 due 09/20**](https://harvard-iacs.github.io/2024-AC215/milestone1/){: .label .label-red }

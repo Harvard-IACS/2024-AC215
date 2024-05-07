@@ -1,14 +1,14 @@
 {"0": {
     "doc": "AC215",
-    "title": "Productionizing AI (LLMML-Ops): AC215",
+    "title": "Productionizing AI (AI-Ops): AC215",
     "content": " ",
-    "url": "/#productionizing-ai-llmml-ops-ac215",
+    "url": "/#productionizing-ai-ai-ops-ac215",
     
-    "relUrl": "/#productionizing-ai-llmml-ops-ac215"
+    "relUrl": "/#productionizing-ai-ai-ops-ac215"
   },"1": {
     "doc": "AC215",
     "title": "Table of contents",
-    "content": ". | Course Introduction | Lectures | Technologies and Platforms | Course Topics Overview | Prerequisites | Course Components | Grade Distribution | Course Policies | Policy on Usage of Publicly Available Class Material . | Consent: | . | Accessibility: | Inclusion and Belonging Statement | . Version 4/20/2024 - WIP ​ . ",
+    "content": ". | Course Introduction | Lectures | Technologies and Platforms | Course Topics Overview | Prerequisites | Course Components | Grade Distribution | Course Policies | Policy on Usage of Publicly Available Class Material . | Consent: | . | Accessibility: | Inclusion and Belonging Statement | . Version 4/30/2024 - WIP ​ . ",
     "url": "/#table-of-contents",
     
     "relUrl": "/#table-of-contents"
@@ -36,21 +36,21 @@
   },"5": {
     "doc": "AC215",
     "title": "Course Topics Overview",
-    "content": "We have designed an in-depth curriculum to ensure a comprehensive understanding of LLM-MLOps. Here’s a closer look at the topics we’ll be covering (see here for a full list of topics): . | Introduction: . | Begin with an understanding of the importance of MLOps and how it fits in the broader AI and software development ecosystem. | . | LLM Topics: . | Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we’ll look at some of these tools, such as LangChain, LamaIndex, and API calls. We’ll also explore RAGS and AI agents, which make it easy to work with LLMs. | . | Virtual Environments and Virtual Machines: . | Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware. ​ | . | Containers: . | Understand the concept of containerization using tools like Docker, and how they differ from virtual machines. ​ | . | Data Pipelines, Dask, &amp; Cloud Storage: . | Learn to create efficient data workflows, use Dask for parallel computing, and understand how cloud storage solutions fit into the LLMMLOps ecosystem. ​ | . | TF Data and TF Records: . | Dive into TensorFlow-specific methods for data ingestion and management, ensuring efficient data preprocessing and storage for your models. ​ | . | Data Parallelization: . | Grasp techniques for distributing data processing tasks across multiple processors or nodes. ​ | . | Data Versioning: . | Explore tools like Pachyderm, and understand the significance of maintaining different versions of datasets for reproducibility and model training. ​ | . | Advanced Training Workflows: . | Deep dive into experiment tracking using tools like Weights &amp; Biases, and harness the power of multi-GPU setups for faster model training. ​ | . | Advanced Inference Workflows: . | Understand the nuances of model optimization techniques like Distillation, Quantization, and Compression. Explore TensorFlow Lite, monitor your models post-deployment, and be prepared for challenges like data drift. ​ | . | Pipeline: . | Study end-to-end MLOps pipelines, their components, and best practices to ensure smooth model deployments.. ​ | . | App Design, Setup, and Code Organization: . | Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability. ​ | . | APIs &amp; Frontend: . | Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions. ​ | . | Scaling (k8): . | Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users. ​ | . | . As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you’re not just familiar with these concepts, but proficient in applying them. ​ . ",
+    "content": "We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here’s a closer look at the topics we’ll be covering (see here for a full list of topics): . | Introduction: . | Begin with an understanding of the importance of AI-Ops and how it fits in the broader AI and software development ecosystem. | . | LLM Topics: . | Large Language Models (LLMs) have led to many new tools and agents that students will use in their projects. In these lectures, we’ll look at some of these tools, such as LangChain, LamaIndex, and API calls. We’ll also explore RAGS and AI agents, which make it easy to work with LLMs. | . | Virtual Environments and Virtual Machines: . | Delve into the foundations of isolated software environments, their importance in AI development, and how virtual machines offer a layer of abstraction over physical hardware. | . | Containers: . | Understand the concept of containerization using tools like Docker, and how they differ from virtual machines. | . | Data Pipelines, &amp; Cloud Storage: . | Learn core data management techniques including ETL and data versioning. Learn to leverage TF Data and TF Records, PyTorch’s Dataset and DataLoader for efficient data handling. Also we will learn how cloud storage solutions fit into the AI-Ops ecosystem.solutions. Explore specialized tools for managing large-scale datasets for computer vision and language models. ​ | . | Advanced Training Workflows: . | We will look into techniques of advanced training workflows, covering experiment tracking with tools like Weights &amp; Biases, leveraging multi-GPU setups for accelerated training, exploring serverless training options using Vertex AI, and fine-tuning large language models (LLMs) . | . | Advanced Inference Workflows: . | Understand the nuances of model optimization techniques like distillation, quantization, compression, and Low-Rank Approximation (LORA). We then move to model deployment, hosting, and serving large language models (LLMs) effectively. Explore post-deployment monitoring for model performance, data drift detection, and testing strategie. Cloud Functions, Cloud Run, Kubeflow, and Vertex AI Pipelines. ​ | . | App Design, Setup, and Code Organization: . | Best practices in designing user-centric AI applications, setting up your development environment, and organizing code for scalability and maintainability. ​ | . | APIs &amp; Frontend: . | Learn about RESTful APIs to serve your models and design user interfaces for seamless user interactions. ​ | . | Scaling (k8): . | Delve into Kubernetes, its significance in deploying containerized applications, and understand how to scale your applications to cater to millions of users. ​ | . | . As we journey through these topics, students will gain a holistic perspective, bridging the gap between model development and real-world deployment. With a blend of theory and practical exercises, this course ensures that by the end, you’re not just familiar with these concepts, but proficient in applying them. ​ . ",
     "url": "/#course-topics-overview",
     
     "relUrl": "/#course-topics-overview"
   },"6": {
     "doc": "AC215",
     "title": "Prerequisites",
-    "content": "To ensure a seamless learning experience and to make the most of this course, participants are expected to come with a foundational knowledge in the following areas: ​ . | Programming Proficiency in Python: . | A strong command over Python’s basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy, Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI. ​ | . | Deep Learning Framework - Tensorflow: . | A working knowledge of the TensorFlow (or PyTorch) framework is crucial, as many topics will delve into its functionalities and methods. Understanding TensorFlow’s basic operations, data handling, and model building mechanisms will be invaluable. ​ | . | Basic Shell Commands: . | Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many MLOps tasks. ​ | . | Basic Data Structures: . | A good grasp of Python’s primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data. ​ | . | File I/O: . | Knowledge of basic file input/output operations in Python, including reading from and writing to files, is vital for tasks involving data storage and manipulation. ​ | . | General AI and ML Concepts: . | While this course is centered around MLOps, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics. | . | . It’s important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you’re not an expert in all of the prerequisites, a willingness to learn and engage actively in the course’s hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding. ​ . ",
+    "content": "To ensure a seamless learning experience and to make the most of this course, participants are expected to come with a foundational knowledge in the following areas: ​ . | Programming Proficiency in Python: . | A strong command over Python’s basic constructs, including functions, classes, and modules. Familiarity with libraries like NumPy, Pandas, Matplotlib is essential, as they form the backbone of many data manipulation tasks in AI. ​ | . | Deep Learning Framework - Tensorflow: . | A working knowledge of the TensorFlow (or PyTorch) framework is crucial, as many topics will delve into its functionalities and methods. Understanding TensorFlow’s basic operations, data handling, and model building mechanisms will be invaluable. ​ | . | Basic Shell Commands: . | Comfortability in navigating the command-line interface (CLI), executing shell commands, and performing basic file operations are foundational for many AI-Ops tasks. ​ | . | Basic Data Structures: . | A good grasp of Python’s primary data structures, especially dictionaries and lists, will be instrumental in understanding and manipulating data. ​ | . | File I/O: . | Knowledge of basic file input/output operations in Python, including reading from and writing to files, is vital for tasks involving data storage and manipulation. ​ | . | General AI and ML Concepts: . | While this course is centered around AI-Ops, a basic understanding of AI and machine learning concepts, including what models are and how they are trained, will set the context for many advanced topics. | . | . It’s important to note that while prior knowledge in these areas will provide a solid foundation, the course has been structured to ensure gradual progression. Even if you’re not an expert in all of the prerequisites, a willingness to learn and engage actively in the course’s hands-on components will be crucial for success. If you find yourself struggling with some concepts, we encourage leveraging the course resources, attending office hours, and participating in peer discussions to reinforce your understanding. ​ . ",
     "url": "/#prerequisites",
     
     "relUrl": "/#prerequisites"
   },"7": {
     "doc": "AC215",
     "title": "Course Components",
-    "content": ". | Weekly Sessions: Structured lectures focusing on the core topics. | Office Hours: This is a dedicated period where you can consult with your TF for any questions, clarifications, or guidance you may require for your course project. | Assignments: There will be 3 individual assingments. | Team Projects: Collaborative assignments that culminate in the creation of a fully functional AI app. | Discussion Forums: Platforms for peer-to-peer learning, discussions, and knowledge sharing. | Supplementary Readings: To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course. | . Team Projects: Project-Based Learning: Crafting Your Own AI Solutions . In the dynamic realm of AI and MLOps, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here’s what you need to know: . 1. Crafting Your AI Project: . | Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative. | By the end of the semester, the aim is to transform your idea into a fully functional web-app or mobile application. | Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project CAN be evaluable by our teaching staff. | Unleash Your Creativity: Whether you’re driven by a start-up vision, by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. | . 2. A Guided Demonstration by Pavlos: . | We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point. | Each week will spotlight a different facet of Pavlos’ project development. This structured showcase offers students a practical insight of course concepts. | Parallelly, students will be prompted to integrate the week’s learnings into their projects, ensuring a steady progression towards their end goals. | . 3. Milestones and Assessment: . | The course will be punctuated with key milestones, designed to assess your project’s evolution and your grasp of the MLOps concepts. Details of these milestones will be shared in due course. | It’s imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project’s holistic development and your learning journey. | . In Summation: . The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can equip you with the tangible skills essential in today’s AI-driven world. ",
+    "content": ". | Sessions: Structured lectures focusing on the core topics. | Office Hours: Dedicated time with your Teaching Fellow (TF) for questions, clarifications, or project guidance. | Individual Assignments (3): These assignments ensure you grasp key learning objectives. | Team Projects: Collaborate with classmates to build a fully functional AI application. | Discussion Forums: Engage in peer-to-peer learning, discussions, and knowledge sharing. | Supplementary Readings: To complement the topics covered in lectures and enrich your academic comprehension, a selection of readings has been curated. As this is an evolving field, the ability to continuously update your knowledge through independent reading is an integral part of the course. | . Team Projects: Project-Based Learning: Crafting Your Own AI Solutions . In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This course encourages each student to bring a unique perspective by working on self-conceived projects. Here’s what you need to know: . 1. Crafting Your AI Project: . | Students are expected to conceptualize and develop their own projects. While our teaching staff is here to provide ideas and guidance, the core objective is for each student to nurture and shape their original initiative. | By the end of the semester, the aim is to transform your idea into a fully functional web-app or mobile application. | Project Scope: Your project should incorporate some element of modeling, ensuring it aligns with the learning objectives of the course. Moreover, it is essential that every component of the project CAN be evaluable by our teaching staff. | Unleash Your Creativity: Whether you’re driven by a start-up vision, by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. | . 2. A Guided Demonstration by Pavlos: . | We, the teaching team, will undertake a project that Pavlos proposes throughout the semester. This serves as a demonstration and reference point. | Each week will spotlight a different facet of Pavlos’ project development. This structured showcase offers students a practical insight of course concepts. | Parallelly, students will be prompted to integrate the week’s learnings into their projects, ensuring a steady progression towards their end goals. | . 3. Milestones and Assessment: . | The course will be punctuated with key milestones, designed to assess your project’s evolution and your grasp of the AI-Ops concepts. Details of these milestones will be shared in due course. | It’s imperative to understand that a significant portion of your grade hinges on these milestones. They are not just checkpoints but pivotal phases that contribute to your project’s holistic development and your learning journey. | . In Summation: . The heart of this course is experiential learning. We fervently believe that your ideas and paralleling them with structured guidance, we can equip you with the tangible skills essential in today’s AI-driven world. ",
     "url": "/#course-components",
     
     "relUrl": "/#course-components"
@@ -267,91 +267,91 @@
   },"38": {
     "doc": "Schedule and Calendar",
     "title": "Week 3 - Containers",
-    "content": "Sep 17 Containers I Lecture 5 Sep 19 Containers II Lecture 6   M1 due . ",
+    "content": "Sep 17 Containers I Lecture 5 Sep 19 Containers II Lecture 6   M1 due 09/20 . ",
     "url": "/schedule/#week-3-containers",
     
     "relUrl": "/schedule/#week-3-containers"
   },"39": {
     "doc": "Schedule and Calendar",
     "title": "Week 4 - Data",
-    "content": "Sep 24 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 7 Sep 26 TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage Lecture 8 HW 1 due ",
+    "content": "Sep 24 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 7 Sep 26 TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage Lecture 8 HW 1 due 09/27 . ",
     "url": "/schedule/#week-4-data",
     
     "relUrl": "/schedule/#week-4-data"
   },"40": {
     "doc": "Schedule and Calendar",
     "title": "Week 5 - Data, Advanced training workflows",
-    "content": "Oct 1 Large Data for CV and LLMs (spezialized tools) Lecture 9 Oct 3 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 10 ",
+    "content": "Oct 1 Large Data for Computer Vision and LLMs Lecture 9 Oct 3 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 10 ",
     "url": "/schedule/#week-5-data-advanced-training-workflows",
     
     "relUrl": "/schedule/#week-5-data-advanced-training-workflows"
   },"41": {
     "doc": "Schedule and Calendar",
     "title": "Week 6 - Project Week",
-    "content": "Oct 8 Project Oct 10 Project M3 due . ",
+    "content": "Oct 8 Project Oct 10 Project ",
     "url": "/schedule/#week-6-project-week",
     
     "relUrl": "/schedule/#week-6-project-week"
   },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 7 - Distillation, Deployment",
-    "content": "Oct 15 Model Distillation/Quantization/Compression LORA Lecture 11 Oct 17 Model Deployment/Host/API, Hosting LLMs Lecture 12 M4 due . ",
+    "content": "Oct 15 Model Optimization: Distillation, Quantization, Compression, and LORA Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
     "url": "/schedule/#week-7-distillation-deployment",
     
     "relUrl": "/schedule/#week-7-distillation-deployment"
   },"43": {
     "doc": "Schedule and Calendar",
     "title": "Week 8 - Midterm , Model Performance Monitoring",
-    "content": "Oct 22 Midterm [??] Oct 24 Model performance monitoring, data drift, or other post release items - LangChain Lecture 13 ",
+    "content": "Oct 22 Model performance monitoring, data drift, or other post release items Lecture 13 Oct 24 Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines Lecture 14 ",
     "url": "/schedule/#week-8-midterm-model-performance-monitoring",
     
     "relUrl": "/schedule/#week-8-midterm-model-performance-monitoring"
   },"44": {
     "doc": "Schedule and Calendar",
     "title": "Week 9 - App Development",
-    "content": "Oct 29 Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines Lecture 14 Oct 31 CI CD, Github Action, etc (Jenkins). Lecture 15 HW2 due . ",
+    "content": "Oct 29 Automating Software Development: CI/CD with GitHub Actions and other tools Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
     "url": "/schedule/#week-9-app-development",
     
     "relUrl": "/schedule/#week-9-app-development"
   },"45": {
     "doc": "Schedule and Calendar",
     "title": "Week 10 - App Development",
-    "content": "Nov 5 App design, setup and code organization Lecture 16 Nov 7 APIs &amp; Frontend Lecture 17 ",
+    "content": "Nov 5 App design, setup and code organization Lecture 16 Nov 7 APIs &amp; Frontend Lecture 17 HW2 due 11/18 . ",
     "url": "/schedule/#week-10-app-development",
     
     "relUrl": "/schedule/#week-10-app-development"
   },"46": {
     "doc": "Schedule and Calendar",
     "title": "Week 11 - Scaling &amp; Deployment",
-    "content": "Nov 12 Frontend - React Lecture 18 Nov 14 Deployment: Ansible Lecture 19 M 5 due ",
+    "content": "Nov 12 Frontend - React Lecture 18 Nov 14 Deployment: Ansible Lecture 19 M4 due 11/15 . ",
     "url": "/schedule/#week-11-scaling-deployment",
     
     "relUrl": "/schedule/#week-11-scaling-deployment"
   },"47": {
     "doc": "Schedule and Calendar",
     "title": "Week 12 - Scaling Kubernetes, CI CD",
-    "content": "Nov 19 Scaling: Kubernetes Lecture 18 Nov 21 Final: CI/CD releases Lecture 19 HW3 due ",
+    "content": "Nov 19 Scaling: Kubernetes Lecture 20 Nov 21 Final: CI/CD releases Lecture 21 ",
     "url": "/schedule/#week-12-scaling-kubernetes-ci-cd",
     
     "relUrl": "/schedule/#week-12-scaling-kubernetes-ci-cd"
   },"48": {
     "doc": "Schedule and Calendar",
     "title": "Week 13 - Thanksgiving",
-    "content": "Nov 26 Thanksgiving Week Nov 38 Thanksgiving Week ",
+    "content": "Nov 26 Thanksgiving Week Nov 28 Thanksgiving Week ",
     "url": "/schedule/#week-13-thanksgiving",
     
     "relUrl": "/schedule/#week-13-thanksgiving"
   },"49": {
     "doc": "Schedule and Calendar",
     "title": "Week 14 -  Projects",
-    "content": " ",
+    "content": "Dec 3 Project HW3 due 12/02 . ",
     "url": "/schedule/#week-14-projects",
     
     "relUrl": "/schedule/#week-14-projects"
   },"50": {
     "doc": "Schedule and Calendar",
     "title": "Week 15 - Projects",
-    "content": "Dec 11 Project Deliverables Due M 6 due Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
+    "content": "Dec 11 Project Deliverables Due M 5 due . Setup &amp; Installation . Refer to the setup and installation document for a full list of softwares and tools we will be using in this class . Policy on Usage of Publicly Available Class Material . | Permitted Use: Class Material is made available primarily for the educational benefit of enrolled students and may be used by others for personal educational purposes only. | Prohibited Use: . | Selling or commercializing any part of the Class Material. | Sharing, distributing, or publishing any part of the Class Material in any form or through any medium without explicit permission from the instructor. | Modifying or altering the Class Material to create derivative works. | . | Attribution: Any permitted use of the Class Material must carry appropriate acknowledgment of the source (e.g., the instructor’s name, course title, and institution). | Enforcement: Failure to comply with this policy may result in legal action and/or disciplinary measures as applicable. | . Consent: . By accessing and using the Class Material, you indicate your acknowledgment and acceptance of this policy. ",
     "url": "/schedule/#week-15-projects",
     
     "relUrl": "/schedule/#week-15-projects"

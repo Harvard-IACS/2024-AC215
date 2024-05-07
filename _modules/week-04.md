@@ -9,4 +9,5 @@ Sep 24
 Sep 26
 : TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage
   : [Lecture 8](../assets/lectures/lecture8/under-construction-gif-17.gif)
-: [**HW 1 due**](){: .label .label-red }
+
+: [**HW 1 due 09/27**](){: .label .label-red }
