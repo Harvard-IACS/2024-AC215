@@ -159,11 +159,10 @@ The heart of this course is experiential learning. We fervently believe that you
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
 | [MS1](https://harvard-iacs.github.io/2024-AC215/milestone1/) | 4     |
-| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 9    |
-| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 12   |
-| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 22    |
-| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 9    |
-| [MS6](https://harvard-iacs.github.io/2024-AC215/milestone6/) | 32    |
+| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 10    |
+| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 25   |
+| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 14    |
+| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 35    |
 | [HW1](https://harvard-iacs.github.io/2024-AC215/HW1/) | 4    |
 | [HW2](https://harvard-iacs.github.io/2024-AC215/HW2/) | 4    |
 | [HW3](https://harvard-iacs.github.io/2024-AC215/HW3/) | 4    |
