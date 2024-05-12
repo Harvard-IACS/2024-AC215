@@ -4,34 +4,39 @@ title: Milestone 5
 parent: Projects
 nav_order: 5
 ---
-### Milestone 5 (hybrid and electric): Development, Deployment, and Scaling of Application
+### Milestone 5: AC215. Final Scaling, Deployment, and Project Presentation
 
-Milestone 5 emphasizes the final stages of the project, focusing on the development and deployment of a user-facing application that ties together the various components built in previous milestones. From designing an intuitive user interface to implementing scalable solutions with Kubernetes, this milestone ensures that the project is not only functional but also ready for real-world usage.
+The final milestone represents the culmination of the project, with a focus on perfecting the scaling and deployment aspects, and on communicating the project's success. It ensures that the project is robust, scalable, and deployable, and that the team can effectively convey the significance and details of the project to diverse audiences. 
 
+By completing this milestone, students demonstrate not only their technical mastery but also their ability to present complex projects in an accessible way. The inclusion of a GitHub repository and blog post ensures that the project has a lasting impact, providing a valuable resource for others in the field.
+
+The final milestone is a comprehensive reflection of the skills, knowledge, and experiences gained throughout the project, embodying a holistic approach to modern software development and deployment. It provides a fitting conclusion to the project, reflecting both the technical achievements and the broader educational objectives.
 
 ### Key dates:
 
-- Due date: Nov 14th
+- Due date: Dec 12th
+
 
 ### Objectives:
 
-- **App Design, Setup, and Code Organization**: 
-Design the overall architecture of the application, including its user interface, functionality, and underlying code structure. Focus on intuitive design and clean code organization to ensure maintainability and efficiency.
+- **Scaling with Kubernetes**: Continue to refine and expand the Kubernetes-based scaling solution. Ensure that the application can handle real-world scenarios and peak loads efficiently.
 
-- **APIs & Frontend Integration**: 
-Develop robust APIs that facilitate communication between the front end and back end of the application. Implement a responsive and user-friendly front-end interface that leverages these APIs to create a seamless user experience.
+- **Deployment with Ansible**: Implement an automated deployment solution using Ansible. This will enable streamlined deployment processes, configuration management, and ensure consistency across different environments.
 
-- **Deployment Strategy**: 
-Define and implement a comprehensive deployment strategy that ensures the application is readily available to end users. This includes setting up continuous integration and continuous deployment (CI/CD) pipelines and considering factors like security, performance, and reliability.
+- **Presentation of the Project**: Prepare and deliver a comprehensive presentation that highlights the project's objectives, design, implementation, challenges, and achievements. 
+
+- **GitHub Repository**: Organize and publish all code, documentation, and relevant assets in a GitHub repository, ensuring that it's well-structured and includes clear instructions for anyone who wants to replicate or learn from the project.
+
+- **Blog Post**: Write an informative and engaging blog post summarizing the project, the technologies used, lessons learned, and the overall experience. This can serve as a public showcase of the project and the methodologies employed.
 
 ### Deliverables:
 
-- **Application Design Document**: 
-A detailed design document outlining the application's architecture, user interface, and code organization principles. The design should include the following
-    - Solution Architecture
-    - Technical Architecture
+- **Deployment Plan and Execution**: A documented deployment plan, along with evidence of successful deployment, including CI/CD pipelines, monitoring, and other deployment best practices.
 
-- **APIs & Frontend Implementation**: 
-Working code for the APIs and front-end interface, complete with documentation and testing to verify proper functionality. The following should be included
-    - Github repo with all you code
-    - Readme file describing all the components of your application
+- **Kubernetes Scaling Solution**: A fully implemented scaling solution using Kubernetes, with detailed documentation on its configuration, policies, and performance under different load scenarios.
+
+- **Project Presentation**: A compelling presentation (slides and speech) that provides a concise and clear overview of the entire project, suitable for both technical and non-technical audiences.
+
+- **GitHub Repository**: A well-organized GitHub repository containing all the project's code, documentation, related resources, and a professional README.
+
+- **Medium Post**: A published Medium post that encapsulates the essence of the project, written in a style that appeals to a broad audience.
