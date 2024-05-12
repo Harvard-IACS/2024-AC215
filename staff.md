@@ -18,16 +18,11 @@ nav_order: 5
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 
-
 {% assign teaching_headtf = site.staffers | where: 'role', 'Head TF' %}
 {% assign num_teaching_headtf = teaching_headtf | size %}
 {% if num_teaching_headtf != 0 %}
 
-## Contact 
-For administrative or logistical questions, please e-mail class Helpline at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) 
 
-## Office Hours 
-(See Ed) 
 
 ## Course Staff
 {% for staffer in teaching_headtf %}
@@ -40,3 +35,12 @@ For administrative or logistical questions, please e-mail class Helpline at [ac2
 {% endfor %}
 {% endif %}
 
+
+
+## Contact 
+
+For administrative or logistical questions, please e-mail class Helpline at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) 
+
+## Office Hours 
+
+(See Ed) 

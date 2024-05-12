@@ -1,7 +1,7 @@
 ---
-name: Ignacio Becker
+name: Chris Gumb
 role:  Teaching Assistant
 # email:  
 # website:  
-photo: ignacio.jpg
+photo: gumb.jpg
 ---
