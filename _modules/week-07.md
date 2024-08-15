@@ -3,8 +3,9 @@ title: Week 7 - Distillation, Deployment
 ---
 
 Oct 15
-: Model Optimization: Distillation, Quantization, Compression, and LORA
+: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), LLM fine tuning
   : [Lecture 11](../assets/lectures/lecture11/under-construction-gif-17.gif)
+
 
 
 Oct 17 

@@ -1,5 +1,5 @@
 ---
-title: Week 9 - App Development 
+title: Week 9 - Midterm, Github Actions
 ---
 
 Oct 29

@@ -1,13 +1,14 @@
 ---
-title: Week 4 - Data
+title: Week 4 - LLM Tools and Agents
 ---
 
 Sep 24
-: Data Pipelines/ Data Management: Extract, Transform, Data Version 
+: LLM tools and agents 1: LangChain, LlamaIndex, API calls, RAG, AI agents  
   : [Lecture 7](../assets/lectures/lecture7/under-construction-gif-17.gif)
 
-Sep 26
-: TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage
-  : [Lecture 8](../assets/lectures/lecture8/under-construction-gif-17.gif)
 
+Sep 26
+: LLM tools and agents 2: LangChain, LamaIndex, API calls, RAG, AI agents  
+  : [Lecture 8](../assets/lectures/lecture8/under-construction-gif-17.gif) 
+  
 : [**HW 1 due 09/27**](){: .label .label-red }

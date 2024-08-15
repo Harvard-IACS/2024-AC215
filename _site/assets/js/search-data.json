@@ -245,36 +245,36 @@
     "relUrl": "/schedule/"
   },"35": {
     "doc": "Schedule and Calendar",
-    "title": "Week 1 - Introduction, LLM tools",
-    "content": "Sep 03 Introduction Lecture 1 ,   Setup &amp; Installation Sep 05 LLM tools and agents 1: LangChain, LlamaIndex, API calls, RAG, AI agents Lecture 2 ",
-    "url": "/schedule/#week-1-introduction-llm-tools",
+    "title": "Week 1 - Introduction, Virtual Environments, Virtual Machines",
+    "content": "Sep 03 Introduction Lecture 1 ,   Setup &amp; Installation Sep 05 Virtual Enviroments and Virtual Machines Lecture 2 ",
+    "url": "/schedule/#week-1-introduction-virtual-environments-virtual-machines",
     
-    "relUrl": "/schedule/#week-1-introduction-llm-tools"
+    "relUrl": "/schedule/#week-1-introduction-virtual-environments-virtual-machines"
   },"36": {
     "doc": "Schedule and Calendar",
-    "title": "Week 2 - LLM tools, Virtual Environments",
-    "content": "Sep 10 LLM tools and agents 1: LangChain, LamaIndex, API calls, RAG, AI agents Lecture 3 Sep 12 Virtual Enviroments and Virtual Machines Lecture 4 ",
-    "url": "/schedule/#week-2-llm-tools-virtual-environments",
+    "title": "Week 2 - Containers",
+    "content": "Sep 10 Containers I Lecture 3 Sep 12 Containers II Lecture 4   ",
+    "url": "/schedule/#week-2-containers",
     
-    "relUrl": "/schedule/#week-2-llm-tools-virtual-environments"
+    "relUrl": "/schedule/#week-2-containers"
   },"37": {
     "doc": "Schedule and Calendar",
-    "title": "Week 3 - Containers",
-    "content": "Sep 17 Containers I Lecture 5 Sep 19 Containers II Lecture 6   M1 due 09/20 . ",
-    "url": "/schedule/#week-3-containers",
+    "title": "Week 3 - Data Pipelines, TF Data, PyTorch Datasets",
+    "content": "Sep 17 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 5 Sep 19 TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage Lecture 6 M1 due 09/20 . ",
+    "url": "/schedule/#week-3-data-pipelines-tf-data-pytorch-datasets",
     
-    "relUrl": "/schedule/#week-3-containers"
+    "relUrl": "/schedule/#week-3-data-pipelines-tf-data-pytorch-datasets"
   },"38": {
     "doc": "Schedule and Calendar",
-    "title": "Week 4 - Data",
-    "content": "Sep 24 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 7 Sep 26 TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage Lecture 8 HW 1 due 09/27 . ",
-    "url": "/schedule/#week-4-data",
+    "title": "Week 4 - LLM Tools and Agents",
+    "content": "Sep 24 LLM tools and agents 1: LangChain, LlamaIndex, API calls, RAG, AI agents Lecture 7 Sep 26 LLM tools and agents 2: LangChain, LamaIndex, API calls, RAG, AI agents Lecture 8 HW 1 due 09/27 . ",
+    "url": "/schedule/#week-4-llm-tools-and-agents",
     
-    "relUrl": "/schedule/#week-4-data"
+    "relUrl": "/schedule/#week-4-llm-tools-and-agents"
   },"39": {
     "doc": "Schedule and Calendar",
     "title": "Week 5 - Data, Advanced training workflows",
-    "content": "Oct 1 Large Data for Computer Vision and LLMs Lecture 9 Oct 3 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 10 ",
+    "content": "Oct 1 Model Optimization: Distillation, Quantization, Compression, and LORA Lecture 9 Oct 3 LLM fine tuning and LORA Lecture 10 ",
     "url": "/schedule/#week-5-data-advanced-training-workflows",
     
     "relUrl": "/schedule/#week-5-data-advanced-training-workflows"
@@ -288,24 +288,24 @@
   },"41": {
     "doc": "Schedule and Calendar",
     "title": "Week 7 - Distillation, Deployment",
-    "content": "Oct 15 Model Optimization: Distillation, Quantization, Compression, and LORA Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
+    "content": "Oct 15 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
     "url": "/schedule/#week-7-distillation-deployment",
     
     "relUrl": "/schedule/#week-7-distillation-deployment"
   },"42": {
     "doc": "Schedule and Calendar",
-    "title": "Week 8 - Midterm , Model Performance Monitoring",
+    "title": "Week 8 - Model Performance Monitoring, Vertex AI",
     "content": "Oct 22 Model performance monitoring, data drift, or other post release items Lecture 13 Oct 24 Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines Lecture 14 ",
-    "url": "/schedule/#week-8-midterm-model-performance-monitoring",
+    "url": "/schedule/#week-8-model-performance-monitoring-vertex-ai",
     
-    "relUrl": "/schedule/#week-8-midterm-model-performance-monitoring"
+    "relUrl": "/schedule/#week-8-model-performance-monitoring-vertex-ai"
   },"43": {
     "doc": "Schedule and Calendar",
-    "title": "Week 9 - App Development",
+    "title": "Week 9 - Midterm, Github Actions",
     "content": "Oct 29 Automating Software Development: CI/CD with GitHub Actions and other tools Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
-    "url": "/schedule/#week-9-app-development",
+    "url": "/schedule/#week-9-midterm-github-actions",
     
-    "relUrl": "/schedule/#week-9-app-development"
+    "relUrl": "/schedule/#week-9-midterm-github-actions"
   },"44": {
     "doc": "Schedule and Calendar",
     "title": "Week 10 - App Development",

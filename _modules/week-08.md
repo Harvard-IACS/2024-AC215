@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Midterm , Model Performance Monitoring 
+title: Week 8 - Model Performance Monitoring, Vertex AI
 ---
 
 Oct 22
