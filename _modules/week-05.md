@@ -13,6 +13,3 @@ Oct 3
 : LLM fine tuning and LORA
   : [Lecture 10](../assets/lectures/lecture10/under-construction-gif-17.gif)
 
-<!-- : Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), LLM fine tuning
-  : [Lecture 10](../assets/lectures/lecture10/under-construction-gif-17.gif) -->
-
