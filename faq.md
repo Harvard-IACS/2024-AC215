@@ -12,7 +12,9 @@ Indeed. You can find it at [https://github.com/Harvard-IACS/2024-AC215](https://
 
 **Is it necessary for me to be present for the live lectures?**
 
-While university policies require all AC215 students to attend the lectures, we don’t officially record attendance. It’s worth mentioning that all lectures are videotaped, so you can watch them later if you can’t attend. However, missing the live sessions means you’ll miss the opportunity for real-time interaction with the instructors and your classmates.
+While university policies require all AC215 students to attend the lectures, we don’t officially record attendance.  Attendance is crucial for earning late days should you wish to utilize during the semester (See [Course Policies](https://harvard-iacs.github.io/2024-AC215/#course-policies))
+
+It’s worth mentioning that all lectures are videotaped, so you can watch them later if you can’t attend. However, missing the live sessions means you’ll miss the opportunity for real-time interaction with the instructors and your classmates.
 
 **Can I view the video recordings for the course?**
 
