@@ -1,7 +1,7 @@
 ---
-name: Shivas Jayaram
+name: Li Yao
 role: Teaching Assistant
 # email: shivasj AT gmail
 # website: https://kevinl.info
-photo: shivas1.png
+photo: li_yao.png
 ---

@@ -9,7 +9,12 @@ nav_order: 5
 
 ## Instructor
 
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+{% assign instructors = site.staffers | where: 'role', 'Instructor1' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
+{% assign instructors = site.staffers | where: 'role', 'Instructor2' %}
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}

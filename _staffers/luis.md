@@ -1,7 +1,7 @@
 ---
-name: Shivas Jayaram
+name: Luis Ribeiro
 role: Teaching Assistant
 # email: shivasj AT gmail
 # website: https://kevinl.info
-photo: shivas1.png
+photo: luis.png
 ---

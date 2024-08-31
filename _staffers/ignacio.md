@@ -1,6 +1,6 @@
 ---
 name: Ignacio Becker
-role:  Teaching Assistant
+role: Instructor2
 # email:  
 # website:  
 photo: ignacio.jpg

@@ -3,5 +3,5 @@ name: Chris Gumb
 role:  Teaching Assistant
 # email:  
 # website:  
-photo: gumb.jpg
+photo: gumb1.png
 ---

@@ -1,6 +1,6 @@
 ---
 name: Pavlos Protopapas
-role: Instructor
+role: Instructor1
 # email: pavlos@seas.harvard.edu
 website: https://seas.harvard.edu/person/pavlos-protopapas
 photo: protopapas.jpeg
