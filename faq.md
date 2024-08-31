@@ -20,8 +20,7 @@ Absolutely. All students enrolled in AC215 will have access to video recordings.
 
 **Can I audit this class?** 
 
-For this specific course, **no auditing is allowed**. This decision is in place to ensure the highest quality of education and resource allocation for enrolled students. We appreciate your interest but are unable to accommodate auditors at this time.
-
-If you are interested in the course material, we recommend that you enroll in the course during a future semester if possible. Alternatively, materials such as syllabi, tutorials, lectures and reading lists will be publicly available, and we encourage you to explore these resources independently.
+All course materials are publicly available, and you are free to access them as long as you adhere to our policies.
+Auditing the class allows you access to the materials and the ability to attend lectures in person. However, we cannot provide auditors with access to Canvas or the recorded videos. Additionally, auditors are not permitted to use any resources, including time with the teaching staff. In summary, you are welcome to attend lectures and access the materials, but please do not ask questions or participate in discussions.
 
 

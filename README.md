@@ -182,10 +182,12 @@ For more information about the projects and milestones, you can either click the
 
 2. **Deadline Policy:**
 
+   [TBD]
    Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You are granted a total leeway of five late days throughout the course duration, with a maximum of two late days allowed for any single assingment. Additionally, you will gain 1 extra late day for every 4 lecture attendances.
 
    Should you need to utilize late days, please inform the class helpline via email at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
-
+   [TBD]
+   
    **Final Milestone:** It's important to note that no extensions will be permitted for the final milestone, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 
 3. **Academic Honesty:**
