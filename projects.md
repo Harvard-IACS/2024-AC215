@@ -12,7 +12,7 @@ Project Milestones - Overview
 
 | **Milestones** | **Brief Description**                                        | **Due Date** | **Grade %** |
 | -------------- | ------------------------------------------------------------ | ------------ | ----------- |
-| **MS1**        | *Project Proposals, Team formation -*  Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19. | **09/10**    | **4**       |
+| **MS1**        | *Project Proposals, Team formation -*  Students submit project proposals and form teams. Staff reviews proposals and return feedback and project approvals by 09/19. | **09/20**    | **4**       |
 | **MS2**        | *MLOps Infrastructure & Advanced Training Workflows -* Building atomic containers, versioned data pipelines, and scalable computing solutions.<br />*Scalable and Moduler Computing Infrastructure -* Extending advanced training workflows with Tensorflow, experiment tracking, multi-GPU training and serverless training. | **10/18**    | **10**      |
 | **MS3**        | **Midterm Presentation** - Presenting a fully functional CLI-based mega pipeline application with model optimization, performance monitoring, and severless inference. | **10/31**    | **25**      |
 | **MS4**        | *Full-Stack Development -* Design a user-friendly frontend developed around working API calls and design documents. | **11/15**    | **14**      |
