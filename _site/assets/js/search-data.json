@@ -390,5 +390,12 @@
     "url": "/staff/",
     
     "relUrl": "/staff/"
+  },"56": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorials / Demo",
+    "content": "(1) Create simple translate app - no docker, no pipenv . ",
+    "url": "/tutorials_demo/",
+    
+    "relUrl": "/tutorials_demo/"
   }
 }
