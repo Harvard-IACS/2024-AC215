@@ -8,6 +8,4 @@ Sep 03
 
 Sep 05
 : Virtual Enviroments and Virtual Machines
-  : [Lecture 2](../assets/lectures/lecture2/under-construction-gif-17.gif) 
-
-
+  : [Lecture 2](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf) 
