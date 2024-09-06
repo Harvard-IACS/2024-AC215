@@ -393,7 +393,7 @@
   },"56": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
-    "content": "(1) Create simple translate app - no docker, no pipenv . ",
+    "content": "(1) Create simple translate app - no docker, no pipenv . (2) Create simple translate app with pipenv, no docker . ",
     "url": "/tutorials_demo/",
     
     "relUrl": "/tutorials_demo/"

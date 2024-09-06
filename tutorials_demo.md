@@ -11,3 +11,4 @@ nav_order: 2
 [(1) Create simple translate app - no docker, no pipenv](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-manually-t1)
 
 
+[(2) Create simple translate app with pipenv,  no docker](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
