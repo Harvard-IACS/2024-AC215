@@ -4,7 +4,7 @@ title: Week 2 - Containers
 
 Sep 10
 : Containers I
-  : [Lecture 3](../assets/lectures/lecture3/under-construction-gif-17.gif)
+  : [Lecture 3](../assets/lectures/lecture3/L03_containers_part1.pdf)
 
 
 Sep 12
