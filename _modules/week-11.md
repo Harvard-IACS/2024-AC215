@@ -1,9 +1,9 @@
 ---
-title: Week 11 - Scaling & Deployment
+title: Week 11 - APIs & Frontend, Ansible
 ---
 
 Nov 12
-: Frontend - React
+: APIs & Frontend	 (Optional: Frontend - React - To be Scheduled on Zoom)
   : [Lecture 18](../assets/lectures/lecture18/under-construction-gif-17.gif)
 
 

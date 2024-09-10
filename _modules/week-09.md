@@ -1,9 +1,9 @@
 ---
-title: Week 9 - Midterm, Github Actions
+title: Week 9 - Midterm, Cloud Functions, Vertex AI Pipelines
 ---
 
 Oct 29
-: Automating Software Development: CI/CD with GitHub Actions and other tools
+: Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines
   : [Lecture 15](../assets/lectures/lecture14/under-construction-gif-17.gif)
 
 

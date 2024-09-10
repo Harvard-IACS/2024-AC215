@@ -287,39 +287,39 @@
     "relUrl": "/schedule/#week-6-project-week"
   },"41": {
     "doc": "Schedule and Calendar",
-    "title": "Week 7 - Distillation, Deployment",
-    "content": "Oct 15 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
-    "url": "/schedule/#week-7-distillation-deployment",
+    "title": "Week 7 - Guest Lecture, Advanced Training Workflows",
+    "content": "Oct 15 Modal Labs - Guest Lecture Lecture 11 Oct 17 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 12 M2 due 10/18 . ",
+    "url": "/schedule/#week-7-guest-lecture-advanced-training-workflows",
     
-    "relUrl": "/schedule/#week-7-distillation-deployment"
+    "relUrl": "/schedule/#week-7-guest-lecture-advanced-training-workflows"
   },"42": {
     "doc": "Schedule and Calendar",
-    "title": "Week 8 - Model Performance Monitoring, Vertex AI",
-    "content": "Oct 22 Model performance monitoring, data drift, or other post release items Lecture 13 Oct 24 Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines Lecture 14 ",
-    "url": "/schedule/#week-8-model-performance-monitoring-vertex-ai",
+    "title": "Week 8 - Model Deployment, Performance Monitoring",
+    "content": "Oct 22 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 13 Oct 24 Model performance monitoring, data drift, or other post release items Lecture 14 ",
+    "url": "/schedule/#week-8-model-deployment-performance-monitoring",
     
-    "relUrl": "/schedule/#week-8-model-performance-monitoring-vertex-ai"
+    "relUrl": "/schedule/#week-8-model-deployment-performance-monitoring"
   },"43": {
     "doc": "Schedule and Calendar",
-    "title": "Week 9 - Midterm, Github Actions",
-    "content": "Oct 29 Automating Software Development: CI/CD with GitHub Actions and other tools Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
-    "url": "/schedule/#week-9-midterm-github-actions",
+    "title": "Week 9 - Midterm, Cloud Functions, Vertex AI Pipelines",
+    "content": "Oct 29 Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
+    "url": "/schedule/#week-9-midterm-cloud-functions-vertex-ai-pipelines",
     
-    "relUrl": "/schedule/#week-9-midterm-github-actions"
+    "relUrl": "/schedule/#week-9-midterm-cloud-functions-vertex-ai-pipelines"
   },"44": {
     "doc": "Schedule and Calendar",
-    "title": "Week 10 - App Development",
-    "content": "Nov 5 App design, setup and code organization Lecture 16 Nov 7 APIs &amp; Frontend Lecture 17 HW2 due 11/08 . ",
-    "url": "/schedule/#week-10-app-development",
+    "title": "Week 10 - Github Actions, App Development",
+    "content": "Nov 5 Automating Software Development: CI/CD with GitHub Actions and other tools Lecture 16 Nov 7 App design, setup and code organization Lecture 17 HW2 due 11/08 . ",
+    "url": "/schedule/#week-10-github-actions-app-development",
     
-    "relUrl": "/schedule/#week-10-app-development"
+    "relUrl": "/schedule/#week-10-github-actions-app-development"
   },"45": {
     "doc": "Schedule and Calendar",
-    "title": "Week 11 - Scaling &amp; Deployment",
-    "content": "Nov 12 Frontend - React Lecture 18 Nov 14 Deployment: Ansible Lecture 19 M4 due 11/15 . ",
-    "url": "/schedule/#week-11-scaling-deployment",
+    "title": "Week 11 - APIs &amp; Frontend, Ansible",
+    "content": "Nov 12 APIs &amp; Frontend (Optional: Frontend - React - To be Scheduled on Zoom) Lecture 18 Nov 14 Deployment: Ansible Lecture 19 M4 due 11/15 . ",
+    "url": "/schedule/#week-11-apis-frontend-ansible",
     
-    "relUrl": "/schedule/#week-11-scaling-deployment"
+    "relUrl": "/schedule/#week-11-apis-frontend-ansible"
   },"46": {
     "doc": "Schedule and Calendar",
     "title": "Week 12 - Scaling Kubernetes, CI CD",
