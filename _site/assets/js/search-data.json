@@ -392,8 +392,71 @@
     "relUrl": "/staff/"
   },"56": {
     "doc": "Tutorials / Demo",
+    "title": "In Class Tutorials / Demos for GCP (and AWS)",
+    "content": " ",
+    "url": "/tutorials_demo/#in-class-tutorials--demos-for-gcp-and-aws",
+    
+    "relUrl": "/tutorials_demo/#in-class-tutorials--demos-for-gcp-and-aws"
+  },"57": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 1: Create Simple Translate App - No Docker, No Pipenv",
+    "content": ". | Lecture: L02 | Description: A simple translation app built without using Docker or Pipenv. | GCP GitHub URL: Install App on VM Manually (T1) | AWS GitHub URL: Install App on VM Manually (T1) - AWS | . ",
+    "url": "/tutorials_demo/#tutorial-1-create-simple-translate-app---no-docker-no-pipenv",
+    
+    "relUrl": "/tutorials_demo/#tutorial-1-create-simple-translate-app---no-docker-no-pipenv"
+  },"58": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 2: Create Simple Translate App with Pipenv, No Docker",
+    "content": ". | Lecture: L02 | Description: A translation app using Pipenv, without Docker. | GCP GitHub URL: Install App on VM using Pipenv (T2) | AWS GitHub URL: Install App on VM using Pipenv (T2) - AWS | . ",
+    "url": "/tutorials_demo/#tutorial-2-create-simple-translate-app-with-pipenv-no-docker",
+    
+    "relUrl": "/tutorials_demo/#tutorial-2-create-simple-translate-app-with-pipenv-no-docker"
+  },"59": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 3: Create Simple Translate App with Docker, Push Image to Docker Hub",
+    "content": ". | Lecture: L03 | Description: Build a simple translation app, containerize it with Docker, and push the image to Docker Hub. | GCP GitHub URL: Develop App using Containers (T3) | AWS GitHub URL: Develop App using Containers (T3) - AWS | . ",
+    "url": "/tutorials_demo/#tutorial-3-create-simple-translate-app-with-docker-push-image-to-docker-hub",
+    
+    "relUrl": "/tutorials_demo/#tutorial-3-create-simple-translate-app-with-docker-push-image-to-docker-hub"
+  },"60": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 4: Run App in VM using Docker",
+    "content": ". | Lecture: L03 | Description: A continuation of the Docker tutorial, running the containerized app in a VM. | GCP GitHub URL: Run App on VM using Docker (T4) | AWS GitHub URL: Run App on VM using Docker (T4) - AWS | . ",
+    "url": "/tutorials_demo/#tutorial-4-run-app-in-vm-using-docker",
+    
+    "relUrl": "/tutorials_demo/#tutorial-4-run-app-in-vm-using-docker"
+  },"61": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 5: Mega Pipeline App",
+    "content": ". | Lecture: L04 | Description: Build a Mega Pipeline App. | GCP GitHub URL: Mega Pipeline App | Status: Work in Progress (WIP) | . ",
+    "url": "/tutorials_demo/#tutorial-5-mega-pipeline-app",
+    
+    "relUrl": "/tutorials_demo/#tutorial-5-mega-pipeline-app"
+  },"62": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 6: Label Studio",
+    "content": ". | Lecture: L05 | Description: Learn how to use Label Studio for data labeling. | GCP GitHub URL: Label Studio | . ",
+    "url": "/tutorials_demo/#tutorial-6-label-studio",
+    
+    "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
+  },"63": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 7: Versioning",
+    "content": ". | Lecture: L05 | Description: Learn about versioning practices in development. | . ",
+    "url": "/tutorials_demo/#tutorial-7-versioning",
+    
+    "relUrl": "/tutorials_demo/#tutorial-7-versioning"
+  },"64": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 8: TF Records",
+    "content": ". | Lecture: L06 | Description: Explore TFRecords for efficient data handling in TensorFlow. | . ",
+    "url": "/tutorials_demo/#tutorial-8-tf-records",
+    
+    "relUrl": "/tutorials_demo/#tutorial-8-tf-records"
+  },"65": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
-    "content": "(1) Create simple translate app - no docker, no pipenv . (2) Create simple translate app with pipenv, no docker . ",
+    "content": " ",
     "url": "/tutorials_demo/",
     
     "relUrl": "/tutorials_demo/"
