@@ -20,7 +20,7 @@ Allowing you to propose your own projects,  will enhance your engagement and lea
 
 
 
-#### Step 1: Create Teams (Groups of 3-5 Students)
+#### Step 1: Create Teams (Groups of 3-4 Students)
 
 *Platform for Team Formation:*  
 You may use the Ed platform to find your teammates. Alternatively, you may form teams independently.
