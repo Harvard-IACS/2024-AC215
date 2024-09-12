@@ -9,4 +9,4 @@ Sep 10
 
 Sep 12
 : Containers II	
-  : [Lecture 4](../assets/lectures/lecture4/under-construction-gif-17.gif) &nbsp; 
+  : [Lecture 4](../assets/lectures/lecture4/L04_containers_part2.pdf) &nbsp; 
