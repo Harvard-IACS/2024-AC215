@@ -47,6 +47,11 @@ nav_order: 2
 - **GCP GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline)
 - **Status**: Work in Progress (WIP)
 
+## Tutorial 5B: Mega Pipeline App
+- **Lecture**: L05
+- **Description**: Build a Mega Pipeline App with Flexible Workflow.
+- **GCP GitHub URL**: [Mega Pipeline App (Flexible Workflow)](https://github.com/dlops-io/mega-pipeline/tree/flexible-workflow)
+
 ---
 
 ## Tutorial 6: Label Studio

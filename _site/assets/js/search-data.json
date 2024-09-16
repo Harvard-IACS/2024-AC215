@@ -434,26 +434,33 @@
     "relUrl": "/tutorials_demo/#tutorial-5-mega-pipeline-app"
   },"62": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 5B: Mega Pipeline App",
+    "content": ". | Lecture: L05 | Description: Build a Mega Pipeline App with Flexible Workflow. | GCP GitHub URL: Mega Pipeline App (Flexible Workflow) | . ",
+    "url": "/tutorials_demo/#tutorial-5b-mega-pipeline-app",
+    
+    "relUrl": "/tutorials_demo/#tutorial-5b-mega-pipeline-app"
+  },"63": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorial 6: Label Studio",
     "content": ". | Lecture: L05 | Description: Learn how to use Label Studio for data labeling. | GCP GitHub URL: Label Studio | . ",
     "url": "/tutorials_demo/#tutorial-6-label-studio",
     
     "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
-  },"63": {
+  },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Versioning",
     "content": ". | Lecture: L05 | Description: Learn about versioning practices in development. | . ",
     "url": "/tutorials_demo/#tutorial-7-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-versioning"
-  },"64": {
+  },"65": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 8: TF Records",
     "content": ". | Lecture: L06 | Description: Explore TFRecords for efficient data handling in TensorFlow. | . ",
     "url": "/tutorials_demo/#tutorial-8-tf-records",
     
     "relUrl": "/tutorials_demo/#tutorial-8-tf-records"
-  },"65": {
+  },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
