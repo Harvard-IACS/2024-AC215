@@ -449,7 +449,7 @@
   },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Versioning",
-    "content": ". | Lecture: L05 | Description: Learn about versioning practices in development. | . ",
+    "content": ". | Lecture: L05 | Description: Learn about versioning practices in development. | GCP GitHub URL: DVC | . ",
     "url": "/tutorials_demo/#tutorial-7-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-versioning"
