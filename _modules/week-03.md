@@ -4,7 +4,7 @@ title: Week 3 - Data Pipelines, TF Data, PyTorch Datasets
 
 Sep 17
 : Data Pipelines/ Data Management: Extract, Transform, Data Version
-  : [Lecture 5](../assets/lectures/lecture5/L05_data_pipelines_part1.pdf)
+  : [Lecture 5](../assets/lectures/lecture5/L05_data1_labeling.pdf)
 
 Sep 19
 : TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage
