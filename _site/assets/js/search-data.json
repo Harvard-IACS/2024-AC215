@@ -287,18 +287,18 @@
     "relUrl": "/schedule/#week-6-project-week"
   },"41": {
     "doc": "Schedule and Calendar",
-    "title": "Week 7 - Guest Lecture, Advanced Training Workflows",
-    "content": "Oct 15 Modal Labs - Guest Lecture Lecture 11 Oct 17 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 12 M2 due 10/18 . ",
-    "url": "/schedule/#week-7-guest-lecture-advanced-training-workflows",
+    "title": "Week 7 - Advanced Training Workflows",
+    "content": "Oct 15 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
+    "url": "/schedule/#week-7-advanced-training-workflows",
     
-    "relUrl": "/schedule/#week-7-guest-lecture-advanced-training-workflows"
+    "relUrl": "/schedule/#week-7-advanced-training-workflows"
   },"42": {
     "doc": "Schedule and Calendar",
-    "title": "Week 8 - Model Deployment, Performance Monitoring",
-    "content": "Oct 22 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 13 Oct 24 Model performance monitoring, data drift, or other post release items Lecture 14 ",
-    "url": "/schedule/#week-8-model-deployment-performance-monitoring",
+    "title": "Week 8 - Guest Lecture,Model Deployment, Performance Monitoring",
+    "content": "Oct 22 Model performance monitoring, data drift, or other post release items Lecture 13 Oct 24 Modal Labs - Guest Lecture Lecture 14 ",
+    "url": "/schedule/#week-8-guest-lecture-model-deployment-performance-monitoring",
     
-    "relUrl": "/schedule/#week-8-model-deployment-performance-monitoring"
+    "relUrl": "/schedule/#week-8-guest-lecture-model-deployment-performance-monitoring"
   },"43": {
     "doc": "Schedule and Calendar",
     "title": "Week 9 - Midterm, Cloud Functions, Vertex AI Pipelines",
