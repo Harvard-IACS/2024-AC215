@@ -8,6 +8,6 @@ Sep 17
 
 Sep 19
 : TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage
-  : [Lecture 6](../assets/lectures/lecture6/under-construction-gif-17.gif)
+  : [Lecture 6](../assets/lectures/lecture6/L06_data_labeling_data_version.pdf)
 
 : [**M1 due 09/20**](https://harvard-iacs.github.io/2024-AC215/milestone1/){: .label .label-red }
