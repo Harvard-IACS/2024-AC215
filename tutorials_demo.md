@@ -62,12 +62,12 @@ nav_order: 2
 ---
 
 ## Tutorial 7: Versioning
-- **Lecture**: L05
+- **Lecture**: L06
 - **Description**: Learn about versioning practices in development.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 
 ---
 
-## Tutorial 8: TF Records
-- **Lecture**: L06
-- **Description**: Explore TFRecords for efficient data handling in TensorFlow.
+## Tutorial 8: 
+- **Lecture**: L07
+- **Description**: 

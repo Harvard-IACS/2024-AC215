@@ -449,17 +449,17 @@
   },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Versioning",
-    "content": ". | Lecture: L05 | Description: Learn about versioning practices in development. | GCP GitHub URL: DVC | . ",
+    "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. | GCP GitHub URL: DVC | . ",
     "url": "/tutorials_demo/#tutorial-7-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-versioning"
   },"65": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 8: TF Records",
-    "content": ". | Lecture: L06 | Description: Explore TFRecords for efficient data handling in TensorFlow. | . ",
-    "url": "/tutorials_demo/#tutorial-8-tf-records",
+    "title": "Tutorial 8:",
+    "content": ". | Lecture: L07 | Description: | . ",
+    "url": "/tutorials_demo/#tutorial-8",
     
-    "relUrl": "/tutorials_demo/#tutorial-8-tf-records"
+    "relUrl": "/tutorials_demo/#tutorial-8"
   },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
