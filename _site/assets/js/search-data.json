@@ -259,11 +259,11 @@
     "relUrl": "/schedule/#week-2-containers"
   },"37": {
     "doc": "Schedule and Calendar",
-    "title": "Week 3 - Data Pipelines, TF Data, PyTorch Datasets",
-    "content": "Sep 17 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 5 Sep 19 TF Data, TF Records, PyTorch Dataset, DataLoader, Cloud Storage Lecture 6 M1 due 09/20 . ",
-    "url": "/schedule/#week-3-data-pipelines-tf-data-pytorch-datasets",
+    "title": "Week 3 - Data Pipelines",
+    "content": "Sep 17 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 5 Sep 19 Data Labeling, Data Versioning Lecture 6 M1 due 09/20 . ",
+    "url": "/schedule/#week-3-data-pipelines",
     
-    "relUrl": "/schedule/#week-3-data-pipelines-tf-data-pytorch-datasets"
+    "relUrl": "/schedule/#week-3-data-pipelines"
   },"38": {
     "doc": "Schedule and Calendar",
     "title": "Week 4 - LLM Tools and Agents",
