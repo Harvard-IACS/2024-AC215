@@ -55,14 +55,14 @@ nav_order: 2
 ---
 
 ## Tutorial 6: Label Studio
-- **Lecture**: L05
+- **Lecture**: L06
 - **Description**: Learn how to use Label Studio for data labeling.
 - **GCP GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling)
 
 ---
 
 ## Tutorial 7: Versioning
-- **Lecture**: L06
+- **Lecture**: L07
 - **Description**: Learn about versioning practices in development.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 

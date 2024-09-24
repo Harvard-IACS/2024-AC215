@@ -442,14 +442,14 @@
   },"63": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 6: Label Studio",
-    "content": ". | Lecture: L05 | Description: Learn how to use Label Studio for data labeling. | GCP GitHub URL: Label Studio | . ",
+    "content": ". | Lecture: L06 | Description: Learn how to use Label Studio for data labeling. | GCP GitHub URL: Label Studio | . ",
     "url": "/tutorials_demo/#tutorial-6-label-studio",
     
     "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
   },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 7: Versioning",
-    "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. | GCP GitHub URL: DVC | . ",
+    "content": ". | Lecture: L07 | Description: Learn about versioning practices in development. | GCP GitHub URL: DVC | . ",
     "url": "/tutorials_demo/#tutorial-7-versioning",
     
     "relUrl": "/tutorials_demo/#tutorial-7-versioning"
