@@ -68,7 +68,7 @@ nav_order: 2
 
 ---
 
-## Tutorial 8: 
+## Tutorial 8: LLM-RAG
 - **Lecture**: L07
-- **Description**: LLM-RAG
+- **Description**: Building a RAG System with Vector DB and LLM
 - **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)

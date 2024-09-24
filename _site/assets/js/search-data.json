@@ -455,11 +455,11 @@
     "relUrl": "/tutorials_demo/#tutorial-7-versioning"
   },"65": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 8:",
-    "content": ". | Lecture: L07 | Description: LLM-RAG | GCP GitHub URL: LLM-1 | . ",
-    "url": "/tutorials_demo/#tutorial-8",
+    "title": "Tutorial 8: LLM-RAG",
+    "content": ". | Lecture: L07 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
+    "url": "/tutorials_demo/#tutorial-8-llm-rag",
     
-    "relUrl": "/tutorials_demo/#tutorial-8"
+    "relUrl": "/tutorials_demo/#tutorial-8-llm-rag"
   },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
