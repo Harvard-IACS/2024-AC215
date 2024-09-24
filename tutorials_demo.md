@@ -62,7 +62,7 @@ nav_order: 2
 ---
 
 ## Tutorial 7: Versioning
-- **Lecture**: L07
+- **Lecture**: L06
 - **Description**: Learn about versioning practices in development.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 
