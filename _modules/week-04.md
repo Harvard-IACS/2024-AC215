@@ -4,7 +4,7 @@ title: Week 4 - LLM Tools and Agents
 
 Sep 24
 : LLM tools and agents 1: LangChain, LlamaIndex, API calls, RAG, AI agents  
-  : [Lecture 7](../assets/lectures/lecture7/under-construction-gif-17.gif)
+  : [Lecture 7](../assets/lectures/lecture7/L07-LLM1.pdf)
 
 
 Sep 26
