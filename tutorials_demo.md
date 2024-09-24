@@ -70,4 +70,5 @@ nav_order: 2
 
 ## Tutorial 8: 
 - **Lecture**: L07
-- **Description**: 
+- **Description**: LLM-RAG
+- **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
