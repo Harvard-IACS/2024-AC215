@@ -9,6 +9,6 @@ Sep 24
 
 Sep 26
 : LLM tools and agents 2: LangChain, LamaIndex, API calls, RAG, AI agents  
-  : [Lecture 8](../assets/lectures/lecture8/under-construction-gif-17.gif) 
+  : [Lecture 8](../assets/lectures/lecture8/L08-LLM2.pdf)
   
 : [**HW 1 due 09/27**](){: .label .label-red }
