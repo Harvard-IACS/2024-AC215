@@ -69,6 +69,12 @@ nav_order: 2
 ---
 
 ## Tutorial 8: LLM-RAG
-- **Lecture**: L07
+- **Lecture**: L08
 - **Description**: Building a RAG System with Vector DB and LLM
 - **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
+
+
+## Tutorial 9: LLM-Agents
+- **Lecture**: L08
+- **Description**: LLM Agents with Phidata
+- **GCP GitHub URL**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)

@@ -456,11 +456,18 @@
   },"65": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 8: LLM-RAG",
-    "content": ". | Lecture: L07 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
+    "content": ". | Lecture: L08 | Description: Building a RAG System with Vector DB and LLM | GCP GitHub URL: LLM-1 | . ",
     "url": "/tutorials_demo/#tutorial-8-llm-rag",
     
     "relUrl": "/tutorials_demo/#tutorial-8-llm-rag"
   },"66": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 9: LLM-Agents",
+    "content": ". | Lecture: L08 | Description: LLM Agents with Phidata | GCP GitHub URL: LLM-Agents | . ",
+    "url": "/tutorials_demo/#tutorial-9-llm-agents",
+    
+    "relUrl": "/tutorials_demo/#tutorial-9-llm-agents"
+  },"67": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
