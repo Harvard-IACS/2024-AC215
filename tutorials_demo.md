@@ -76,5 +76,18 @@ nav_order: 2
 
 ## Tutorial 9: LLM-Agents
 - **Lecture**: L08
-- **Description**: LLM Agents with Phidata
+- **Description**: LLM Agents with Phidata (Notebook)
 - **GCP GitHub URL**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
+
+
+## Tutorial 10: LLM-Agents
+- **Lecture**: L08
+- **Description**: LLM Agents 
+- **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
+
+
+## Tutorial 11: LLM-Fine Tuning
+- **Lecture**: L09
+- **Description**: LLM Fine Tuning 
+- **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
+
