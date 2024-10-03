@@ -3,7 +3,7 @@ title: Week 8 - Guest Lecture,Model Deployment, Performance Monitoring
 ---
 
 Oct 22
-: Model performance monitoring, data drift, or other post release items
+: Model performance monitoring,  or other post release items
   : [Lecture 13](../assets/lectures/lecture13/under-construction-gif-17.gif)
 
 Oct 24

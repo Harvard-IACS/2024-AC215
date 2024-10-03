@@ -295,7 +295,7 @@
   },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 8 - Guest Lecture,Model Deployment, Performance Monitoring",
-    "content": "Oct 22 Model performance monitoring, data drift, or other post release items Lecture 13 Oct 24 Modal Labs - Guest Lecture Lecture 14 ",
+    "content": "Oct 22 Model performance monitoring, or other post release items Lecture 13 Oct 24 Modal Labs - Guest Lecture Lecture 14 ",
     "url": "/schedule/#week-8-guest-lecture-model-deployment-performance-monitoring",
     
     "relUrl": "/schedule/#week-8-guest-lecture-model-deployment-performance-monitoring"

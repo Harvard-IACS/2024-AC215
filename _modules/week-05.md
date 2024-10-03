@@ -8,6 +8,6 @@ Oct 1
 
 Oct 3
 : Model Optimization: Distillation, Quantization, Compression, and LORA
-    : [Lecture 10](../assets/lectures/lecture10/under-construction-gif-17.gif)
+    : [Lecture 10](../assets/lectures/lecture9/L09-FineTuning.pdf)
 
 
