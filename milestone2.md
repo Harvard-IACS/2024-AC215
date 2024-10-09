@@ -36,7 +36,9 @@ By the end of this milestone, teams will have built foundational elements for th
 - Documentation explaining the purpose of each container and instructions for running them.
 
 
-**Versioned Data Strategy:** Implement a data versioning strategy using tools like DVC or other suitable solutions. If feasible, this strategy should also be containerized to ensure portability and reproducibility of data processes. (Optional but recommended)
+**Versioned Data Strategy:** Implement a data versioning strategy using tools like DVC or other suitable solutions. If feasible, this strategy should also be containerized to ensure portability and reproducibility of data processes.(Optional but recommended)
+
+Please make sure to record your prompts as part of the data. For eg: If you are generating data using a LLM, please add the prompts and generated data as part of the dataset.
 	
 <u>Deliverables:</u>
 - Documentation on the data versioning strategy chosen (e.g., DVC) and why
