@@ -77,7 +77,7 @@ nav_order: 2
 ## Tutorial 9: LLM-Agents
 - **Lecture**: L08
 - **Description**: LLM Agents with Phidata (Notebook)
-- **GCP GitHub URL**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
+- **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
 
 
 ## Tutorial 10: LLM-Agents
@@ -90,4 +90,9 @@ nav_order: 2
 - **Lecture**: L09
 - **Description**: LLM Fine Tuning 
 - **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
+
+## Tutorial 12: Model Compression and Distillation
+- **Lecture**: L11
+- **Description**: Model Compression and Distillation
+- **Colab Notebook**: [Model Compression and Distillation](https://colab.research.google.com/drive/16zMs3Z9m3UsljUMZIoE2QuyegUyndpHz?usp=drive_link)
 

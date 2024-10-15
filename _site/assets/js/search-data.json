@@ -463,7 +463,7 @@
   },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 9: LLM-Agents",
-    "content": ". | Lecture: L08 | Description: LLM Agents with Phidata (Notebook) | GCP GitHub URL: LLM-Agents | . ",
+    "content": ". | Lecture: L08 | Description: LLM Agents with Phidata (Notebook) | Colab Notebook: LLM-Agents | . ",
     "url": "/tutorials_demo/#tutorial-9-llm-agents",
     
     "relUrl": "/tutorials_demo/#tutorial-9-llm-agents"
@@ -482,6 +482,13 @@
     
     "relUrl": "/tutorials_demo/#tutorial-11-llm-fine-tuning"
   },"69": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 12: Model Compression and Distillation",
+    "content": ". | Lecture: L11 | Description: Model Compression and Distillation | Colab Notebook: Model Compression and Distillation | . ",
+    "url": "/tutorials_demo/#tutorial-12-model-compression-and-distillation",
+    
+    "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
+  },"70": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
