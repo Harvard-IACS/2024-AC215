@@ -4,7 +4,7 @@ title: Week 7 - Advanced Training Workflows
 
 Oct 15
 : Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), LLM fine tuning
-  : [Lecture 11](../assets/lectures/lecture11/under-construction-gif-17.gif)
+  : [Lecture 11](../assets/lectures/lecture11/L11_compression_techniques.pdf)
 
 Oct 17 
 : Model Deployment: Hosting, APIs, and Serving LLMs 
