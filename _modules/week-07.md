@@ -1,9 +1,9 @@
 ---
-title: Week 7 - Advanced Training Workflows
+title: Week 7 - Model Compression and Distillation
 ---
 
 Oct 15
-: Advanced training workflows: experiment tracking (W&B), multi GPU, serverless training (Vertex AI), LLM fine tuning
+: Model Compression and Distillation
   : [Lecture 11](../assets/lectures/lecture11/L11_compression_techniques.pdf)
 
 Oct 17 

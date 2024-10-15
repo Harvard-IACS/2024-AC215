@@ -274,7 +274,7 @@
   },"39": {
     "doc": "Schedule and Calendar",
     "title": "Week 5 - Data, Advanced training workflows",
-    "content": "Oct 1 LLM fine tuning and LORA Lecture 9 Oct 3 Model Optimization: Distillation, Quantization, Compression, and LORA Lecture 10 ",
+    "content": "Oct 1 LLM fine tuning and LORA - I Lecture 9 Oct 3 LLM fine tuning and LORA - II Lecture 10 ",
     "url": "/schedule/#week-5-data-advanced-training-workflows",
     
     "relUrl": "/schedule/#week-5-data-advanced-training-workflows"
@@ -287,11 +287,11 @@
     "relUrl": "/schedule/#week-6-project-week"
   },"41": {
     "doc": "Schedule and Calendar",
-    "title": "Week 7 - Advanced Training Workflows",
-    "content": "Oct 15 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI), LLM fine tuning Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
-    "url": "/schedule/#week-7-advanced-training-workflows",
+    "title": "Week 7 - Model Compression and Distillation",
+    "content": "Oct 15 Model Compression and Distillation Lecture 11 Oct 17 Model Deployment: Hosting, APIs, and Serving LLMs Lecture 12 M2 due 10/18 . ",
+    "url": "/schedule/#week-7-model-compression-and-distillation",
     
-    "relUrl": "/schedule/#week-7-advanced-training-workflows"
+    "relUrl": "/schedule/#week-7-model-compression-and-distillation"
   },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 8 - Guest Lecture,Model Deployment, Performance Monitoring",
