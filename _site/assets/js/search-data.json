@@ -273,11 +273,11 @@
     "relUrl": "/schedule/#week-4-llm-tools-and-agents"
   },"39": {
     "doc": "Schedule and Calendar",
-    "title": "Week 5 - Data, Advanced training workflows",
+    "title": "Week 5 - Fine Tuning, LORA",
     "content": "Oct 1 LLM fine tuning and LORA - I Lecture 9 Oct 3 LLM fine tuning and LORA - II Lecture 10 ",
-    "url": "/schedule/#week-5-data-advanced-training-workflows",
+    "url": "/schedule/#week-5-fine-tuning-lora",
     
-    "relUrl": "/schedule/#week-5-data-advanced-training-workflows"
+    "relUrl": "/schedule/#week-5-fine-tuning-lora"
   },"40": {
     "doc": "Schedule and Calendar",
     "title": "Week 6 - Project Week",
@@ -287,11 +287,11 @@
     "relUrl": "/schedule/#week-6-project-week"
   },"41": {
     "doc": "Schedule and Calendar",
-    "title": "Week 7 - Model Compression and Distillation",
+    "title": "Week 7 - Model Compression and Distillation, Advanced Training Workflows",
     "content": "Oct 15 Model Compression and Distillation Lecture 11 Oct 17 Advanced training workflows: experiment tracking (W&amp;B), multi GPU, serverless training (Vertex AI) Lecture 12 M2 due 10/18 . ",
-    "url": "/schedule/#week-7-model-compression-and-distillation",
+    "url": "/schedule/#week-7-model-compression-and-distillation-advanced-training-workflows",
     
-    "relUrl": "/schedule/#week-7-model-compression-and-distillation"
+    "relUrl": "/schedule/#week-7-model-compression-and-distillation-advanced-training-workflows"
   },"42": {
     "doc": "Schedule and Calendar",
     "title": "Week 8 - Guest Lecture,Model Deployment, Performance Monitoring",
@@ -489,6 +489,13 @@
     
     "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
   },"70": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 13: Advanced Training Workflows",
+    "content": ". | Lecture: L12 | Description: Advanced Training Workflows | GCP GitHub URL: Advanced Training Workflows | . ",
+    "url": "/tutorials_demo/#tutorial-13-advanced-training-workflows",
+    
+    "relUrl": "/tutorials_demo/#tutorial-13-advanced-training-workflows"
+  },"71": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",

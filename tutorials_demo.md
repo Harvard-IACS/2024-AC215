@@ -97,3 +97,9 @@ nav_order: 2
 - **Description**: Model Compression and Distillation
 - **Colab Notebook**: [Model Compression and Distillation](https://colab.research.google.com/drive/16zMs3Z9m3UsljUMZIoE2QuyegUyndpHz?usp=drive_link)
 
+
+## Tutorial 13: Advanced Training Workflows
+- **Lecture**: L12
+- **Description**: Advanced Training Workflows
+- **GCP GitHub URL**: [Advanced Training Workflows](https://github.com/dlops-io/model-training)
+

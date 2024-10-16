@@ -1,5 +1,5 @@
 ---
-title: Week 5 - Data, Advanced training workflows
+title: Week 5 - Fine Tuning, LORA
 ---
 
 Oct 1
