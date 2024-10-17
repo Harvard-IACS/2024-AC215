@@ -100,6 +100,13 @@ nav_order: 2
 
 ## Tutorial 13: Advanced Training Workflows
 - **Lecture**: L12
+- **Description**: Classification Model, Experiment Tracking
+**Colab Notebook A**: [Cheese Classification Models](https://colab.research.google.com/drive/1GIslUzm62UsiDCWleLdANaNM-Z7JiExB)
+**Colab Notebook B**: [Experiment Tracking with WANDB](https://colab.research.google.com/drive/1VrNXEmfQnozPaV-aAWGIZ1Hm-NBEXOjk?usp=sharing)
+
+
+## Tutorial 14: Advanced Training Workflows
+- **Lecture**: L12
 - **Description**: Advanced Training Workflows
 - **GCP GitHub URL**: [Advanced Training Workflows](https://github.com/dlops-io/model-training)
 

@@ -491,11 +491,18 @@
   },"70": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 13: Advanced Training Workflows",
-    "content": ". | Lecture: L12 | Description: Advanced Training Workflows | GCP GitHub URL: Advanced Training Workflows | . ",
+    "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking Colab Notebook A: Cheese Classification Models Colab Notebook B: Experiment Tracking with WANDB | . ",
     "url": "/tutorials_demo/#tutorial-13-advanced-training-workflows",
     
     "relUrl": "/tutorials_demo/#tutorial-13-advanced-training-workflows"
   },"71": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 14: Advanced Training Workflows",
+    "content": ". | Lecture: L12 | Description: Advanced Training Workflows | GCP GitHub URL: Advanced Training Workflows | . ",
+    "url": "/tutorials_demo/#tutorial-14-advanced-training-workflows",
+    
+    "relUrl": "/tutorials_demo/#tutorial-14-advanced-training-workflows"
+  },"72": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
