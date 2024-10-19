@@ -8,7 +8,7 @@
   },"1": {
     "doc": "AC215",
     "title": "Table of contents",
-    "content": ". | Course Introduction | Lectures | Technologies and Platforms | Course Topics Overview | Prerequisites | Course Components | Grade Distribution | Course Policies | Policy on Usage of Publicly Available Class Material | Accessibility: | Inclusion and Belonging Statement | . Version 08/31/2024 - WIP ​ . ",
+    "content": ". | Course Introduction | Lectures | Technologies and Platforms | Course Topics Overview | Prerequisites | Course Components | Grade Distribution | Course Policies | Policy on Usage of Publicly Available Class Material | Accessibility: | Inclusion and Belonging Statement | . ",
     "url": "/#table-of-contents",
     
     "relUrl": "/#table-of-contents"
@@ -490,19 +490,26 @@
     "relUrl": "/tutorials_demo/#tutorial-12-model-compression-and-distillation"
   },"70": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 13: Advanced Training Workflows",
+    "title": "Tutorial 13: Experiment Tracking",
     "content": ". | Lecture: L12 | Description: Classification Model, Experiment Tracking Colab Notebook A: Cheese Classification Models Colab Notebook B: Experiment Tracking with WANDB | . ",
-    "url": "/tutorials_demo/#tutorial-13-advanced-training-workflows",
+    "url": "/tutorials_demo/#tutorial-13-experiment-tracking",
     
-    "relUrl": "/tutorials_demo/#tutorial-13-advanced-training-workflows"
+    "relUrl": "/tutorials_demo/#tutorial-13-experiment-tracking"
   },"71": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 14: Advanced Training Workflows",
-    "content": ". | Lecture: L12 | Description: Advanced Training Workflows | GCP GitHub URL: Advanced Training Workflows | . ",
-    "url": "/tutorials_demo/#tutorial-14-advanced-training-workflows",
+    "title": "Tutorial 14: Serveless Model Training with Vertex AI",
+    "content": ". | Lecture: L12 | Description: Advanced Training Workflows | GCP GitHub URL: Serverless Model Training | . ",
+    "url": "/tutorials_demo/#tutorial-14-serveless-model-training-with-vertex-ai",
     
-    "relUrl": "/tutorials_demo/#tutorial-14-advanced-training-workflows"
+    "relUrl": "/tutorials_demo/#tutorial-14-serveless-model-training-with-vertex-ai"
   },"72": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 15: Cloud Function and Cloud Run",
+    "content": ". | Lecture: L13 | Description: Advanced Training Workflows | GCP GitHub URL: | . ",
+    "url": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run",
+    
+    "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"
+  },"73": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",

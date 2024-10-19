@@ -1,18 +1,28 @@
+---
+layout: home
+title: AC215 
+nav_exclude: true
+permalink: /:path/
+seo:
+  type: Course
+  name: AC215 
+---
 
-# Productionizing AI (AI-Ops): E-115 
 
+# **Productionizing AI (AI-Ops)**: AC215 
+{:.no_toc}
 
-## Table of contents 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
 {:toc}
 
 ---
 
-<span style="color:red">Version 10/16/2024   </span>
-​
-
 ## Course Introduction
 
-In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to E-115: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
+In today's AI-driven world, building a robust deep learning model is only half the journey. The real challenge often lies in bringing this model to life in the form of an application that's scalable, maintainable, and ready for real-world deployment. Welcome to AC215: Productionizing AI (Machine Learning Operations), where we will traverse the complex landscape of Machine Learning Operations, with a special focus on Large Language Models (LLMs). This course has been meticulously curated to provide a holistic understanding of the complete deep learning workflow, from refining your models to deploying them in production environments.
 
 We will dive deep into topics like containerization, cloud functions, data pipelines, and advanced training workflows, with specific emphasis on LLMs. You will learn how to utilize LLM APIs effectively, host APIs, fine-tune LLMs for specific tasks, adapt them to various domains, and build applications around them. Our objective is not only to help you grasp these concepts but also to empower you to build and deploy scalable AI applications. We will delve into the particular intricacies of LLMs and their applications in real-world scenarios.
 
@@ -22,9 +32,9 @@ Whether you are an AI enthusiast wanting to understand the intricacies of Machin
 
 ## Lectures
 
-- Online
+- **Location:** SEC 1.321/Winokur, 150 Western Ave, Boston
 
-- **Meeting Time:** Tuesday 6:30 PM - 8:30 PM; Thursday 6:30 PM -8:30 PM
+- **Meeting Time:** Tuesday 12:45 PM - 02:00 PM; Thursday 12:45 PM - 02:00 PM
 
   
 
@@ -35,7 +45,7 @@ We will demonstrate most ideas using TensorFlow and some using PyTorch,  utilizi
 
 ## Course Topics Overview
 
-We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops.  
+We have designed an in-depth curriculum to ensure a comprehensive understanding of AI-Ops. Here's a closer look at the topics we'll be covering (see  [here](/assets/images/ContentOutline.pdf) for a full list of topics):
 
 
 1. **Introduction:** 
@@ -124,7 +134,7 @@ In the dynamic realm of AI and AI-Ops, hands-on experience is paramount. This co
 - **Unleash Your Creativity:** Whether you're driven by a start-up vision,  by research lab innovations, or inspired by a personal hobby, this is your platform to bring that idea to life. 
 
 **2. A Guided Demonstration by Pavlos:**
--  We, the teaching team, will undertake a project that Pavlos  [proposes](http://formaggio.me) throughout the semester. This serves as a demonstration and reference point. 
+-  We, the teaching team, will undertake a project that Pavlos    [proposes](http://formaggio.me) throughout the semester. This serves as a demonstration and reference point. 
   
 - Each week will spotlight a different facet of Pavlos' project development. This structured showcase offers students a practical insight of course concepts.
   
@@ -145,16 +155,16 @@ The heart of this course is experiential learning. We fervently believe that you
 
 | Milestone                                                    | Weight |
 | ------------------------------------------------------------ | ------ |
-| [MS1] | 4     |
-| [MS2] | 10    |
-| [MS3] | 25   |
-| [MS4] | 14    |
-| [MS5] | 35    |
-| [HW1] | 4    |
-| [HW2] | 4    |
-| [HW3] | 4    |
+| [MS1](https://harvard-iacs.github.io/2024-AC215/milestone1/) | 4     |
+| [MS2](https://harvard-iacs.github.io/2024-AC215/milestone2/) | 10    |
+| [MS3](https://harvard-iacs.github.io/2024-AC215/milestone3/) | 25   |
+| [MS4](https://harvard-iacs.github.io/2024-AC215/milestone4/) | 14    |
+| [MS5](https://harvard-iacs.github.io/2024-AC215/milestone5/) | 35    |
+| [HW1](https://harvard-iacs.github.io/2024-AC215/HW1/) | 4    |
+| [HW2](https://harvard-iacs.github.io/2024-AC215/HW2/) | 4    |
+| [HW3](https://harvard-iacs.github.io/2024-AC215/HW3/) | 4    |
 
-For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-E-115/projects/).
+For more information about the projects and milestones, you can either click the links provided above or visit the [project page](https://harvard-iacs.github.io/2024-AC215/projects/).
 
 
 ## Course Policies  
@@ -164,14 +174,14 @@ For more information about the projects and milestones, you can either click the
 
    - **ED Forum:** Post questions related to course content, or technical issues on the ED forum. This encourages peer learning and allows teaching staff to address common concerns. We regularly monitor the forum to provide guidance.
    - **Office Hours:** Attend office hours if you need personalized assistance or in-depth explanations.
-   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to E-115.2024@gmail.com.
+   - **Teaching Staff Helpline:** For matters specific to the teaching staff, please send your queries to ac215.2024@gmail.com.
    - **Email the Instructor:** For private or individual concerns, please feel free to directly email the instructor.
 
 2. **Deadline Policy:**
 
    Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You can gain 1 extra late day for every 5 lecture attendances. You are allowed a maximum of two late days for any single assignment.  For Group project milestones, at least one of the group member must have late days available. 
 
-   Should you need to utilize late days, please inform the class helpline via email at [E-115.2024@gmail.com](mailto:E-115.2024@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
+   Should you need to utilize late days, please inform the class helpline via email at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
 
    **Final Milestone / Midterms:** It's important to note that no extensions will be permitted for the final milestone / midterms, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 
