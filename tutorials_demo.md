@@ -98,15 +98,20 @@ nav_order: 2
 - **Colab Notebook**: [Model Compression and Distillation](https://colab.research.google.com/drive/16zMs3Z9m3UsljUMZIoE2QuyegUyndpHz?usp=drive_link)
 
 
-## Tutorial 13: Advanced Training Workflows
+## Tutorial 13: Experiment Tracking
 - **Lecture**: L12
 - **Description**: Classification Model, Experiment Tracking
 **Colab Notebook A**: [Cheese Classification Models](https://colab.research.google.com/drive/1GIslUzm62UsiDCWleLdANaNM-Z7JiExB)
 **Colab Notebook B**: [Experiment Tracking with WANDB](https://colab.research.google.com/drive/1VrNXEmfQnozPaV-aAWGIZ1Hm-NBEXOjk?usp=sharing)
 
 
-## Tutorial 14: Advanced Training Workflows
+## Tutorial 14: Serveless Model Training with Vertex AI 
 - **Lecture**: L12
 - **Description**: Advanced Training Workflows
-- **GCP GitHub URL**: [Advanced Training Workflows](https://github.com/dlops-io/model-training)
+- **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
 
+## Tutorial 15: Cloud Function and Cloud Run 
+
+- **Lecture**: L13
+- **Description**: Advanced Training Workflows
+- **GCP GitHub URL**: 
