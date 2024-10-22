@@ -301,11 +301,11 @@
     "relUrl": "/schedule/#week-7-model-compression-and-distillation-advanced-training-workflows"
   },"43": {
     "doc": "Schedule and Calendar",
-    "title": "Week 8 - Guest Lecture, Model Deployment, Performance Monitoring",
+    "title": "Week 8 - Cloud Function and Cloud Run, Guest Lecture",
     "content": "Oct 22 Cloud Function and Cloud Run Lecture 13 Oct 24 Modal Labs - Guest Lecture Lecture 14 ",
-    "url": "/schedule/#week-8-guest-lecture-model-deployment-performance-monitoring",
+    "url": "/schedule/#week-8-cloud-function-and-cloud-run-guest-lecture",
     
-    "relUrl": "/schedule/#week-8-guest-lecture-model-deployment-performance-monitoring"
+    "relUrl": "/schedule/#week-8-cloud-function-and-cloud-run-guest-lecture"
   },"44": {
     "doc": "Schedule and Calendar",
     "title": "Week 9 - Midterm, Cloud Functions, Vertex AI Pipelines",

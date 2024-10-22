@@ -1,5 +1,5 @@
 ---
-title: Week 8 - Guest Lecture, Model Deployment, Performance Monitoring
+title: Week 8 - Cloud Function and Cloud Run, Guest Lecture
 ---
 
 Oct 22
