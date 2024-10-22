@@ -512,7 +512,7 @@
   },"73": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 15: Cloud Function and Cloud Run",
-    "content": ". | Lecture: L13 | Description: Advanced Training Workflows | GCP GitHub URL: | . ",
+    "content": ". | Lecture: L13 | Description: Cloud Function and Cloud Run | GCP GitHub URL: Cloud Function, Cloud Run | . ",
     "url": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run",
     
     "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"

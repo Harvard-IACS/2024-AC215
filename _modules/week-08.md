@@ -4,7 +4,7 @@ title: Week 8 - Guest Lecture,Model Deployment, Performance Monitoring
 
 Oct 22
 : Model performance monitoring,  or other post release items
-  : [Lecture 13](../assets/lectures/lecture13/under-construction-gif-17.gif)
+  : [Lecture 13](../assets/lectures/lecture13/L13_ml_cloud_function_cloud_run.pdf)
 
 Oct 24
 : Modal Labs - Guest Lecture

@@ -110,8 +110,12 @@ nav_order: 2
 - **Description**: Advanced Training Workflows
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
 
+
 ## Tutorial 15: Cloud Function and Cloud Run 
 
 - **Lecture**: L13
-- **Description**: Advanced Training Workflows
-- **GCP GitHub URL**: 
+- **Description**: Cloud Function and Cloud Run
+- **GCP GitHub URL**: [Cloud Function](https://github.com/dlops-io/serverless-deployment#running-app-as-cloud-function), [Cloud Run](https://github.com/dlops-io/serverless-deployment#running-app-in-cloud-run)
+
+
+
