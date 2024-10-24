@@ -23,6 +23,8 @@ For this milestone, you will present your AI application in the form of an **inv
 - **Presentation Date:** Thursday, October 31st.
     Details on the schedule and location will be posted on **Ed**.
 
+  **Slides submission:** Please submit slides by noon on 10/31 via Canvas.
+
 
 ### **Presentation Requirements**
 Your presentation should be **5 minutes** long, followed by **1 minute** for Q&A. It should include:
