@@ -308,11 +308,11 @@
     "relUrl": "/schedule/#week-8-cloud-function-and-cloud-run-guest-lecture"
   },"44": {
     "doc": "Schedule and Calendar",
-    "title": "Week 9 - Midterm, Cloud Functions, Vertex AI Pipelines",
-    "content": "Oct 29 Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
-    "url": "/schedule/#week-9-midterm-cloud-functions-vertex-ai-pipelines",
+    "title": "Week 9 - ML Workflows with Vertex AI, Midterm",
+    "content": "Oct 29 ML Workflows with Vertex AI Lecture 15 Oct 31 Midterm (M3) Presentations M3 due 10/31 ",
+    "url": "/schedule/#week-9-ml-workflows-with-vertex-ai-midterm",
     
-    "relUrl": "/schedule/#week-9-midterm-cloud-functions-vertex-ai-pipelines"
+    "relUrl": "/schedule/#week-9-ml-workflows-with-vertex-ai-midterm"
   },"45": {
     "doc": "Schedule and Calendar",
     "title": "Week 10 - Github Actions, App Development",

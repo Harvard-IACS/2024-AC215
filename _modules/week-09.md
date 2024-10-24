@@ -1,9 +1,9 @@
 ---
-title: Week 9 - Midterm, Cloud Functions, Vertex AI Pipelines
+title: Week 9 - ML Workflows with Vertex AI, Midterm 
 ---
 
 Oct 29
-: Testing, Cloud Functions, Cloud Run, Kubeflow, Vertex AI Pipelines
+: ML Workflows with Vertex AI
   : [Lecture 15](../assets/lectures/lecture14/under-construction-gif-17.gif)
 
 
