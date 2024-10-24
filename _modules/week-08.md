@@ -8,4 +8,4 @@ Oct 22
 
 Oct 24
 : Modal Labs - Guest Lecture
-  : [Lecture 14](../assets/lectures/lecture14/under-construction-gif-17.gif)
+  : [Lecture 14](https://docs.google.com/presentation/d/1cKtx2EIdovfAcJ48o7Pt_HDnpOfnUzv5P5VMuRzzUxA/edit?usp=sharing)
