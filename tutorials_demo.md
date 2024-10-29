@@ -118,4 +118,17 @@ nav_order: 2
 - **GCP GitHub URL**: [Cloud Function](https://github.com/dlops-io/serverless-deployment#running-app-as-cloud-function), [Cloud Run](https://github.com/dlops-io/serverless-deployment#running-app-in-cloud-run)
 
 
+## Tutorial 16: Model Deployment
+
+- **Lecture**: L15
+- **Description**: Model Deployment
+- **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
+
+
+## Tutorial 17: ML Workflow
+
+- **Lecture**: L15
+- **Description**: ML Workflow
+- **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
+
 

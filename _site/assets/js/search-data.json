@@ -518,6 +518,20 @@
     "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"
   },"74": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 16: Model Deployment",
+    "content": ". | Lecture: L15 | Description: Model Deployment | GCP GitHub URL: Model Deployment | . ",
+    "url": "/tutorials_demo/#tutorial-16-model-deployment",
+    
+    "relUrl": "/tutorials_demo/#tutorial-16-model-deployment"
+  },"75": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 17: ML Workflow",
+    "content": ". | Lecture: L15 | Description: ML Workflow | GCP GitHub URL: ML Workflow | . ",
+    "url": "/tutorials_demo/#tutorial-17-ml-workflow",
+    
+    "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
+  },"76": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",
