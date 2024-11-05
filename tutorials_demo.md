@@ -132,3 +132,21 @@ nav_order: 2
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 
 
+## Tutorial 18: CI/CD with GitHub Actions and other tools
+
+- **Lecture**: L16
+- **Description**:  Simple CI
+- **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
+
+
+## Tutorial 19: LLM Finetuning Hooks
+
+- **Lecture**: L16
+- **Description**:  LLM Finetuning Hooks A
+- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
+
+## Tutorial 19: LLM Finetuning Hooks
+
+- **Lecture**: L16
+- **Description**:  LLM Finetuning Hooks B
+- **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
