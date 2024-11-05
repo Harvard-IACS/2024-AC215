@@ -4,7 +4,7 @@ title: Week 10 - Github Actions, App Development
 
 Nov 5
 : Automating Software Development: CI/CD with GitHub Actions and other tools
-  : [Lecture 16](../assets/lectures/lecture16/under-construction-gif-17.gif)
+  : [Lecture 16](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf)
 
 Nov 7
 : App design, setup and code organization 
