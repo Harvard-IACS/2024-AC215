@@ -532,26 +532,33 @@
     "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
   },"76": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 18: CI/CD with GitHub Actions and other tools",
-    "content": ". | Lecture: L16 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
-    "url": "/tutorials_demo/#tutorial-18-cicd-with-github-actions-and-other-tools",
+    "title": "Tutorial 18: Deploy LLM on VM",
+    "content": ". | Lecture: L15 | Description: Deploy LLM on VM | GCP GitHub URL: LLM on VM | . ",
+    "url": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm",
     
-    "relUrl": "/tutorials_demo/#tutorial-18-cicd-with-github-actions-and-other-tools"
+    "relUrl": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm"
   },"77": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 19: LLM Finetuning Hooks",
-    "content": ". | Lecture: L16 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
-    "url": "/tutorials_demo/#tutorial-19-llm-finetuning-hooks",
+    "title": "Tutorial 19: CI/CD with GitHub Actions and other tools",
+    "content": ". | Lecture: L16 | Description: Simple CI | GCP GitHub URL: Simple CI | . ",
+    "url": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools",
     
-    "relUrl": "/tutorials_demo/#tutorial-19-llm-finetuning-hooks"
+    "relUrl": "/tutorials_demo/#tutorial-19-cicd-with-github-actions-and-other-tools"
   },"78": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 19: LLM Finetuning Hooks",
-    "content": ". | Lecture: L16 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
-    "url": "/tutorials_demo/#tutorial-19-llm-finetuning-hooks-1",
+    "title": "Tutorial 20: LLM Finetuning Hooks",
+    "content": ". | Lecture: L16 | Description: LLM Finetuning Hooks A | GCP GitHub URL: LLM Finetuning Hooks | . ",
+    "url": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks",
     
-    "relUrl": "/tutorials_demo/#tutorial-19-llm-finetuning-hooks-1"
+    "relUrl": "/tutorials_demo/#tutorial-20-llm-finetuning-hooks"
   },"79": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 21: LLM Finetuning Hooks",
+    "content": ". | Lecture: L16 | Description: LLM Finetuning Hooks B | GCP GitHub URL: LLM Finetuning Hooks | . ",
+    "url": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks",
+    
+    "relUrl": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks"
+  },"80": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
