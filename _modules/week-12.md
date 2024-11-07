@@ -5,6 +5,8 @@ title: Week 12 - Scaling Kubernetes, CI CD
 Nov 19
 : Scaling: Kubernetes 
   : [Lecture 20](../assets/lectures/lecture20/under-construction-gif-17.gif)
+  
+: [**M4 due 11/19**](https://harvard-iacs.github.io/2024-AC215/milestone4/){: .label .label-red }
 
 
 Nov 21

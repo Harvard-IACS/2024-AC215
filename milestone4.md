@@ -45,15 +45,15 @@ Milestone 4 focuses on developing, testing, and deploying a user-facing applicat
 3. **Continuous Integration Setup:**
    - A functioning CI pipeline that runs on every push or merge.
    - **Pipeline Must Include:**
-     - **Code Build and Linting:** Automated build process and code quality checks using linting tools (e.g., ESLint, Flake8).
-     - **Automated Testing:** Execution of unit and end-to-end tests with test results reported.
-     - **Deployment Steps:** (If deployment is required) Automated deployment to a specified environment.
+     - **Code Build and Linting:** Automated build process and code quality checks using linting tools (e.g., ESLint, Flake8) running on GitHub Actions.
+     - **Automated Testing:** Execution of unit, integration and systems tests with test results reported.
 4. **Automated Testing Implementation:**
-   - Integration of automated tests within the CI pipeline.
+   - Integration of automated tests within the CI pipeline using GitHub Actions.
    - **Should Include:**
      - **Unit Tests:** For individual components and functions.
-     - **End-to-End Tests:** Covering user flows and interactions.
-     - **Test Coverage Reports:** Integrated into the CI pipeline to monitor code coverage.
+     - **Integration Tests:** For integrating multiple components.
+     - **System Tests:** Covering user flows and interactions.
+     - **Test Coverage Reports:** Integrated into the CI pipeline to monitor code coverage to be at least 50%.
 5. **Test Documentation:**
    - Detailed explanations of the testing strategy and implemented tests.
    - **Should Include:**
