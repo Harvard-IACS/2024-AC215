@@ -157,4 +157,8 @@ nav_order: 2
 - **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
 
 
+## Tutorial 22: Frontend and FastAPI
 
+- **Lecture**: L17
+- **Description**:  Simple Frontend with FastAPI
+- **GCP GitHub URL**: [App v1](https://github.com/dlops-io/cheese-app-v1)

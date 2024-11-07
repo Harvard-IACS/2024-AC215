@@ -560,6 +560,13 @@
     "relUrl": "/tutorials_demo/#tutorial-21-llm-finetuning-hooks"
   },"80": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 22: Frontend and FastAPI",
+    "content": ". | Lecture: L17 | Description: Simple Frontend with FastAPI | GCP GitHub URL: App v1 | . ",
+    "url": "/tutorials_demo/#tutorial-22-frontend-and-fastapi",
+    
+    "relUrl": "/tutorials_demo/#tutorial-22-frontend-and-fastapi"
+  },"81": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",
