@@ -8,7 +8,7 @@ Nov 5
 
 Nov 7
 : App design, setup and code organization 
-  : [Lecture 17](../assets/lectures/lecture17/under-construction-gif-17.gif)
+  : [Lecture 17](../assets/lectures/lecture17/L17_app_development_design_setup.pdf)
 
 : [**HW2 due 11/08**](){: .label .label-red }
   
