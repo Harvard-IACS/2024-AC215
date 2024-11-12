@@ -4,7 +4,7 @@ title: Week 11 - APIs & Frontend, Ansible
 
 Nov 12
 : APIs & Frontend	 
-  : [Lecture 18](../assets/lectures/lecture18/under-construction-gif-17.gif)
+  : [Lecture 18](../assets/lectures/lecture18/L18_app_development_implement.pdf)
 
 
 Nov 14
