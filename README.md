@@ -181,8 +181,6 @@ For more information about the projects and milestones, you can either click the
 
    Consistent and timely completion of assignments is imperative in this course. All course milestones must be submitted by 9:00 PM EST on the specified due dates. You can gain 1 extra late day for every 5 lecture attendances. You are allowed a maximum of two late days for any single assignment.  For Group project milestones, at least one of the group member must have late days available. 
 
-   Should you need to utilize late days, please inform the class helpline via email at [ac215.2024@gmail.com](mailto:ac215.2024@gmail.com) prior to the deadline. This ensures that the teaching team is aware of your situation and can account for it when grading.
-
    **Final Milestone / Midterms:** It's important to note that no extensions will be permitted for the final milestone / midterms, under any circumstances. Therefore, careful time management is strongly encouraged to ensure that you can meet this critical deadline.
 
 3. **Academic Honesty:**
