@@ -162,3 +162,21 @@ nav_order: 2
 - **Lecture**: L17
 - **Description**:  Simple Frontend with FastAPI
 - **GCP GitHub URL**: [App v1](https://github.com/dlops-io/cheese-app-v1)
+
+
+## Tutorial 23: Backend and FastAPI
+- **Lecture**: L18
+- **Description**: Cheese App APIs
+- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#setup-environments)
+
+
+## Tutorial 24: Frontend Simple
+- **Lecture**: L18
+- **Description**: Frontend Simple
+- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#frontend-app-simple)
+
+
+## Tutorial 25: Frontend React
+- **Lecture**: L18
+- **Description**: Frontend App (React)
+- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#frontend-app-react)

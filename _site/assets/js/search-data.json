@@ -567,6 +567,27 @@
     "relUrl": "/tutorials_demo/#tutorial-22-frontend-and-fastapi"
   },"81": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 23: Backend and FastAPI",
+    "content": ". | Lecture: L18 | Description: Cheese App APIs | GCP GitHub URL: App v2 | . ",
+    "url": "/tutorials_demo/#tutorial-23-backend-and-fastapi",
+    
+    "relUrl": "/tutorials_demo/#tutorial-23-backend-and-fastapi"
+  },"82": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 24: Frontend Simple",
+    "content": ". | Lecture: L18 | Description: Frontend Simple | GCP GitHub URL: App v2 | . ",
+    "url": "/tutorials_demo/#tutorial-24-frontend-simple",
+    
+    "relUrl": "/tutorials_demo/#tutorial-24-frontend-simple"
+  },"83": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 25: Frontend React",
+    "content": ". | Lecture: L18 | Description: Frontend App (React) | GCP GitHub URL: App v2 | . ",
+    "url": "/tutorials_demo/#tutorial-25-frontend-react",
+    
+    "relUrl": "/tutorials_demo/#tutorial-25-frontend-react"
+  },"84": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",
