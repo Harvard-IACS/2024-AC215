@@ -9,5 +9,5 @@ Nov 12
 
 Nov 14
 : Deployment: Ansible 
-  : [Lecture 19]((../assets/lectures/lecture19/under-construction-gif-17.gif))
+  : [Lecture 19](../assets/lectures/lecture19/L19_ansible_operations.pdf)
 
