@@ -180,3 +180,9 @@ nav_order: 2
 - **Lecture**: L18
 - **Description**: Frontend App (React)
 - **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#frontend-app-react)
+
+
+## Tutorial 26: Deployment to GCP
+- **Lecture**: L19
+- **Description**: Deployment to GCP
+- **GCP GitHub URL**: [App v3](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
