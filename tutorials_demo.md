@@ -118,10 +118,10 @@ nav_order: 2
 - **GCP GitHub URL**: [Cloud Function](https://github.com/dlops-io/serverless-deployment#running-app-as-cloud-function), [Cloud Run](https://github.com/dlops-io/serverless-deployment#running-app-in-cloud-run)
 
 
-## Tutorial 16: Model Deployment
+## Tutorial 16: Model Deployment using Vertex AI
 
 - **Lecture**: L15
-- **Description**: Model Deployment
+- **Description**: Model Deployment using Vertex AI
 - **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
 
 
@@ -134,7 +134,7 @@ nav_order: 2
 ## Tutorial 18: Deploy LLM on VM
 
 - **Lecture**: - 
-- **Description**:  Deploy your own LLM on VM
+- **Description**:  Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code.
 - **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)
 
 ## Tutorial 19: CI/CD with GitHub Actions and other tools
@@ -167,7 +167,7 @@ nav_order: 2
 ## Tutorial 23: Backend and FastAPI
 - **Lecture**: L18
 - **Description**: Cheese App APIs
-- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#setup-environments)
+- **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#setup-environments)
 
 
 ## Tutorial 24: Frontend Simple
