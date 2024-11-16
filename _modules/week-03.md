@@ -3,8 +3,8 @@ title: Week 3 - Data Pipelines
 ---
 
 Sep 17
-: Data Pipelines/ Data Management: Extract, Transform, Data Version
-  : [Lecture 5](../assets/lectures/lecture5/L05_data1_labeling.pdf)
+: Container Workflow
+  : [Lecture 5](../assets/lectures/lecture5/L05_container_workflow.pdf)
 
 Sep 19
 : Data Labeling, Data Versioning
