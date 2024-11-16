@@ -18,7 +18,7 @@ nav_order: 2
 ---
 
 ## Tutorial 2: Create Simple Translate App with Pipenv, No Docker
-- **Lecture**: [L02](../assets/lectures/L02.pdf)
+- **Lecture**: [L02](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf)
 - **Description**: A translation app using Pipenv, without Docker.
 - **GCP GitHub URL**: [Install App on VM using Pipenv (T2)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
 - **AWS GitHub URL**: [Install App on VM using Pipenv (T2) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
@@ -34,7 +34,7 @@ nav_order: 2
 ---
 
 ## Tutorial 4: Run App in VM using Docker
-- **Lecture**: L03
+- **Lecture**: [L03](../assets/lectures/lecture3/L03_containers_part1.pdf)
 - **Description**: A continuation of the Docker tutorial, running the containerized app in a VM.
 - **GCP GitHub URL**: [Run App on VM using Docker (T4)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
 - **AWS GitHub URL**: [Run App on VM using Docker (T4) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#running-app-on-vm-using-docker-t4)
@@ -48,7 +48,7 @@ nav_order: 2
 - **AWS GitHub URL**: Work in Progress (WIP)
 
 ## Tutorial 5B: Mega Pipeline App
-- **Lecture**: L05
+- **Lecture**: [L05](../assets/lectures/lecture5/L05_workflow_management.pdf)
 - **Description**: Build a Mega Pipeline App with Flexible Workflow.
 - **GCP GitHub URL**: [Mega Pipeline App (Flexible Workflow)](https://github.com/dlops-io/mega-pipeline/tree/flexible-workflow)
 
@@ -62,7 +62,7 @@ nav_order: 2
 ---
 
 ## Tutorial 7: Data Versioning 
-- **Lecture**: L06
+- **Lecture**: [L06](../assets/lectures/lecture6/L06_data_labeling_data_version.pdf)
 - **Description**: Learn about versioning practices in development. Particularly, how to use DVC for data versioning.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 
@@ -75,13 +75,13 @@ nav_order: 2
 
 
 ## Tutorial 9: LLM-Agents
-- **Lecture**: L08
+- **Lecture**: [L08](../assets/lectures/lecture8/L08-LLM2.pdf)
 - **Description**: LLM Agents with Phidata (Notebook)
 - **Colab Notebook**: [LLM-Agents](https://colab.research.google.com/drive/1UVn3L6KQgsrVLnLRaMVbpV3VJr_i5MLW?usp=sharing)
 
 
 ## Tutorial 10: LLM-Agents
-- **Lecture**: L08
+- **Lecture**: [L08](../assets/lectures/lecture8/L08-LLM2.pdf)
 - **Description**: LLM Agents 
 - **GCP GitHub URL**: [LLM-Agents](https://github.com/dlops-io/llm-rag?tab=readme-ov-file#agents)
 
@@ -106,7 +106,7 @@ nav_order: 2
 
 
 ## Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI 
-- **Lecture**: L12
+- **Lecture**: [L12](../assets/lectures/lecture12/L12_advanced_training.pdf)
 - **Description**: Serveless Model Training with Vertex AI 
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
 
@@ -125,7 +125,7 @@ nav_order: 2
 
 ## Tutorial 17: ML Workflow
 
-- **Lecture**: L15
+- **Lecture**: [L15](../assets/lectures/lecture15/L15_ml_workflow_management.pdf)
 - **Description**:  Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 
@@ -143,13 +143,13 @@ nav_order: 2
 
 ## Tutorial 20: LLM Finetuning Hooks
 
-- **Lecture**: L16
+- **Lecture**: [L16](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf)
 - **Description**:  LLM Finetuning Hooks A
 - **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksA)
 
 ## Tutorial 21: LLM Finetuning Hooks
 
-- **Lecture**: L16
+- **Lecture**: [L16](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf)
 - **Description**:  LLM Finetuning Hooks B
 - **GCP GitHub URL**: [LLM Finetuning Hooks](https://github.com/dlops-io/llm-finetuning_hooksB)
 
@@ -167,13 +167,13 @@ nav_order: 2
 
 
 ## Tutorial 24: Frontend Simple
-- **Lecture**: L18
+- **Lecture**: [L18](../assets/lectures/lecture18/L18_app_development_implement.pdf)
 - **Description**: Frontend Simple
 - **GCP GitHub URL**: [App v2: Frontend Simple](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-24-simple-frontend-app)
 
 
 ## Tutorial 25: Frontend React
-- **Lecture**: L18
+- **Lecture**: [L18](../assets/lectures/lecture18/L18_app_development_implement.pdf)
 - **Description**: Frontend App (React)
 - **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
 
