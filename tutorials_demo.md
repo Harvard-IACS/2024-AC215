@@ -173,13 +173,13 @@ nav_order: 2
 ## Tutorial 24: Frontend Simple
 - **Lecture**: L18
 - **Description**: Frontend Simple
-- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#frontend-app-simple)
+- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-24-simple-frontend-app)
 
 
 ## Tutorial 25: Frontend React
 - **Lecture**: L18
 - **Description**: Frontend App (React)
-- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2#frontend-app-react)
+- **GCP GitHub URL**: [App v2](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
 
 
 ## Tutorial 26: Deployment to GCP
