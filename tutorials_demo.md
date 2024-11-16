@@ -10,7 +10,7 @@ nav_order: 2
 # In Class Tutorials / Demos for GCP (and AWS)
 
 ## Tutorial 1: Create Simple Translate App - No Docker, No Pipenv
-- **Lecture**: L02
+- **Lecture**: [L02](../assets/lectures/lecture2/L02_virtual_machines_virtual_environments.pdf)
 - **Description**: A simple translation app built without using Docker or Pipenv.
 - **GCP GitHub URL**: [Install App on VM Manually (T1)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-manually-t1)
 - **AWS GitHub URL**: [Install App on VM Manually (T1) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-manually-t1)
@@ -18,7 +18,7 @@ nav_order: 2
 ---
 
 ## Tutorial 2: Create Simple Translate App with Pipenv, No Docker
-- **Lecture**: L02
+- **Lecture**: [L02](../assets/lectures/L02.pdf)
 - **Description**: A translation app using Pipenv, without Docker.
 - **GCP GitHub URL**: [Install App on VM using Pipenv (T2)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
 - **AWS GitHub URL**: [Install App on VM using Pipenv (T2) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#installing-app-on-vm-using-pipenv-t2)
@@ -26,7 +26,7 @@ nav_order: 2
 ---
 
 ## Tutorial 3: Create Simple Translate App with Docker, Push Image to Docker Hub
-- **Lecture**: L03
+- **Lecture**: [L03](../assets/lectures/lecture3/L03_containers_part1.pdf)
 - **Description**: Build a simple translation app, containerize it with Docker, and push the image to Docker Hub.
 - **GCP GitHub URL**: [Develop App using Containers (T3)](https://github.com/dlops-io/simple-translate?tab=readme-ov-file#developing-app-using-containers-t3)
 - **AWS GitHub URL**: [Develop App using Containers (T3) - AWS](https://github.com/dlops-io/simple-translate-aws?tab=readme-ov-file#developing-app-using-containers-t3)
@@ -42,7 +42,7 @@ nav_order: 2
 ---
 
 ## Tutorial 5: Mega Pipeline App
-- **Lecture**: L04
+- **Lecture**: [L04](../assets/lectures/lecture4/L04_containers_part2.pdf)
 - **Description**: Build a Mega Pipeline App.
 - **GCP GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline)
 - **AWS GitHub URL**: Work in Progress (WIP)
@@ -55,7 +55,7 @@ nav_order: 2
 ---
 
 ## Tutorial 6: Label Studio
-- **Lecture**: L06
+- **Lecture**: [L06](../assets/lectures/lecture6/L06_data_labeling_data_version.pdf)
 - **Description**: Learn how to use Label Studio for data labeling.
 - **GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling) [GCP and AWS]
 
@@ -69,7 +69,7 @@ nav_order: 2
 ---
 
 ## Tutorial 8: LLM-RAG
-- **Lecture**: L08
+- **Lecture**: [L08](../assets/lectures/lecture8/L08-LLM2.pdf)
 - **Description**: Building a RAG System with Vector DB and LLM
 - **GCP GitHub URL**: [LLM-1](https://github.com/dlops-io/llm-rag)
 
@@ -87,19 +87,19 @@ nav_order: 2
 
 
 ## Tutorial 11: LLM-Fine Tuning
-- **Lecture**: L09
+- **Lecture**: [L09](../assets/lectures/lecture9/L09-FineTuning.pdf)
 - **Description**: LLM Fine Tuning using PEFT
 - **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
 
 
 ## Tutorial 12: Model Compression and Distillation
-- **Lecture**: L11
+- **Lecture**: [L11](../assets/lectures/lecture11/L11_compression_techniques.pdf)
 - **Description**: Model Compression and Distillation
 - **Colab Notebook**: [Model Compression and Distillation](https://colab.research.google.com/drive/16zMs3Z9m3UsljUMZIoE2QuyegUyndpHz?usp=drive_link)
 
 
 ## Tutorial 13: Experiment Tracking
-- **Lecture**: L12
+- **Lecture**: [L12](../assets/lectures/lecture12/L12_advanced_training.pdf)
 - **Description**: Classification Model, Experiment Tracking
 **Colab Notebook A**: [Cheese Classification Models](https://colab.research.google.com/drive/1GIslUzm62UsiDCWleLdANaNM-Z7JiExB)
 **Colab Notebook B**: [Experiment Tracking with WANDB](https://colab.research.google.com/drive/1VrNXEmfQnozPaV-aAWGIZ1Hm-NBEXOjk?usp=sharing)
@@ -112,15 +112,13 @@ nav_order: 2
 
 
 ## Tutorial 15: Cloud Function and Cloud Run 
-
-- **Lecture**: L13
+- **Lecture**: [L13](../assets/lectures/lecture13/L13_ml_cloud_function_cloud_run.pdf)
 - **Description**: Cloud Function and Cloud Run
 - **GCP GitHub URL**: [Cloud Function](https://github.com/dlops-io/serverless-deployment#running-app-as-cloud-function), [Cloud Run](https://github.com/dlops-io/serverless-deployment#running-app-in-cloud-run)
 
 
 ## Tutorial 16: Model Deployment using Vertex AI
-
-- **Lecture**: L15
+- **Lecture**: [L15](../assets/lectures/lecture15/L15_ml_workflow_management.pdf)
 - **Description**: Model Deployment using Vertex AI
 - **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
 
@@ -138,9 +136,8 @@ nav_order: 2
 - **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)
 
 ## Tutorial 19: CI/CD with GitHub Actions and other tools
-
-- **Lecture**: L16
-- **Description**:  Simple CI
+- **Lecture**: [L16](../assets/lectures/lecture16/L16_ContinuousIntegration.pdf)
+- **Description**: Simple CI
 - **GCP GitHub URL**: [Simple CI](https://github.com/dlops-io/simple_CI)
 
 
@@ -158,14 +155,13 @@ nav_order: 2
 
 
 ## Tutorial 22: Frontend and FastAPI
-
-- **Lecture**: L17
-- **Description**:  Simple Frontend with FastAPI
+- **Lecture**: [L17](../assets/lectures/lecture17/L17_app_development_design_setup.pdf)
+- **Description**: Simple Frontend with FastAPI
 - **GCP GitHub URL**: [App v1](https://github.com/dlops-io/cheese-app-v1)
 
 
 ## Tutorial 23: Backend and FastAPI
-- **Lecture**: L18
+- **Lecture**: [L18](../assets/lectures/lecture18/L18_app_development_implement.pdf)
 - **Description**: Cheese App APIs
 - **GCP GitHub URL**: [App v2: FastAPI Backend](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#setup-environments)
 
@@ -183,6 +179,6 @@ nav_order: 2
 
 
 ## Tutorial 26: Deployment of the full app to GCP
-- **Lecture**: L19
+- **Lecture**: [L19](../assets/lectures/lecture19/L19_ansible_operations.pdf)
 - **Description**: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible.
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
