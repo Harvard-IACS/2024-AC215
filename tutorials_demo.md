@@ -133,8 +133,8 @@ nav_order: 2
 
 ## Tutorial 18: Deploy LLM on VM
 
-- **Lecture**: L15
-- **Description**:  Deploy LLM on VM
+- **Lecture**: - 
+- **Description**:  Deploy your own LLM on VM
 - **GCP GitHub URL**: [LLM on VM](https://github.com/dlops-io/llm-vm)
 
 ## Tutorial 19: CI/CD with GitHub Actions and other tools
