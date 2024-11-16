@@ -45,7 +45,7 @@ nav_order: 2
 - **Lecture**: L04
 - **Description**: Build a Mega Pipeline App.
 - **GCP GitHub URL**: [Mega Pipeline App](https://github.com/dlops-io/mega-pipeline)
-- **Status**: Work in Progress (WIP)
+- **AWS GitHub URL**: Work in Progress (WIP)
 
 ## Tutorial 5B: Mega Pipeline App
 - **Lecture**: L05
@@ -57,13 +57,13 @@ nav_order: 2
 ## Tutorial 6: Label Studio
 - **Lecture**: L06
 - **Description**: Learn how to use Label Studio for data labeling.
-- **GCP GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling)
+- **GitHub URL**: [Label Studio](https://github.com/dlops-io/data-labeling) [GCP and AWS]
 
 ---
 
-## Tutorial 7: Versioning
+## Tutorial 7: Data Versioning 
 - **Lecture**: L06
-- **Description**: Learn about versioning practices in development.
+- **Description**: Learn about versioning practices in development. Particularly, how to use DVC for data versioning.
 - **GCP GitHub URL**: [DVC](https://github.com/dlops-io/data-versioning)
 
 ---
@@ -88,7 +88,7 @@ nav_order: 2
 
 ## Tutorial 11: LLM-Fine Tuning
 - **Lecture**: L09
-- **Description**: LLM Fine Tuning 
+- **Description**: LLM Fine Tuning using PEFT
 - **GCP GitHub URL**: [LLM Fine Tuning](https://github.com/dlops-io/llm-finetuning)
 
 
@@ -105,9 +105,9 @@ nav_order: 2
 **Colab Notebook B**: [Experiment Tracking with WANDB](https://colab.research.google.com/drive/1VrNXEmfQnozPaV-aAWGIZ1Hm-NBEXOjk?usp=sharing)
 
 
-## Tutorial 14: Serveless Model Training with Vertex AI 
+## Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI 
 - **Lecture**: L12
-- **Description**: Advanced Training Workflows
+- **Description**: Serveless Model Training with Vertex AI 
 - **GCP GitHub URL**: [Serverless Model Training](https://github.com/dlops-io/model-training)
 
 
@@ -128,7 +128,7 @@ nav_order: 2
 ## Tutorial 17: ML Workflow
 
 - **Lecture**: L15
-- **Description**: ML Workflow
+- **Description**:  Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment.
 - **GCP GitHub URL**: [ML Workflow](https://github.com/dlops-io/ml-workflow)
 
 ## Tutorial 18: Deploy LLM on VM
@@ -182,7 +182,7 @@ nav_order: 2
 - **GCP GitHub URL**: [App v2: Frontend React](https://github.com/dlops-io/cheese-app-v2?tab=readme-ov-file#tutorial-25-react-frontend-setup)
 
 
-## Tutorial 26: Deployment to GCP
+## Tutorial 26: Deployment of the full app to GCP
 - **Lecture**: L19
-- **Description**: Deployment to GCP
+- **Description**: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible.
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
