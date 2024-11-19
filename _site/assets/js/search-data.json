@@ -281,7 +281,7 @@
   },"40": {
     "doc": "Schedule and Calendar",
     "title": "Week 3 - Data Pipelines",
-    "content": "Sep 17 Data Pipelines/ Data Management: Extract, Transform, Data Version Lecture 5 Sep 19 Data Labeling, Data Versioning Lecture 6 M1 due 09/20 . ",
+    "content": "Sep 17 Container Workflow Lecture 5 Sep 19 Data Labeling, Data Versioning Lecture 6 M1 due 09/20 . ",
     "url": "/schedule/#week-3-data-pipelines",
     
     "relUrl": "/schedule/#week-3-data-pipelines"
@@ -449,31 +449,31 @@
   },"64": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 5: Mega Pipeline App",
-    "content": ". | Lecture: L04 | Description: Build a Mega Pipeline App. | GCP GitHub URL: Mega Pipeline App | Status: Work in Progress (WIP) | . ",
+    "content": ". | Lecture: L04 | Description: Build a Mega Pipeline App. | GCP GitHub URL: Mega Pipeline App | AWS GitHub URL: Work in Progress (WIP) | . ",
     "url": "/tutorials_demo/#tutorial-5-mega-pipeline-app",
     
     "relUrl": "/tutorials_demo/#tutorial-5-mega-pipeline-app"
   },"65": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 5B: Mega Pipeline App",
+    "title": "Tutorial 5B: Mega Pipeline App with Flexible Workflow",
     "content": ". | Lecture: L05 | Description: Build a Mega Pipeline App with Flexible Workflow. | GCP GitHub URL: Mega Pipeline App (Flexible Workflow) | . ",
-    "url": "/tutorials_demo/#tutorial-5b-mega-pipeline-app",
+    "url": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow",
     
-    "relUrl": "/tutorials_demo/#tutorial-5b-mega-pipeline-app"
+    "relUrl": "/tutorials_demo/#tutorial-5b-mega-pipeline-app-with-flexible-workflow"
   },"66": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 6: Label Studio",
-    "content": ". | Lecture: L06 | Description: Learn how to use Label Studio for data labeling. | GCP GitHub URL: Label Studio | . ",
+    "content": ". | Lecture: L06 | Description: Learn how to use Label Studio for data labeling. | GitHub URL: Label Studio [GCP and AWS] | . ",
     "url": "/tutorials_demo/#tutorial-6-label-studio",
     
     "relUrl": "/tutorials_demo/#tutorial-6-label-studio"
   },"67": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 7: Versioning",
-    "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. | GCP GitHub URL: DVC | . ",
-    "url": "/tutorials_demo/#tutorial-7-versioning",
+    "title": "Tutorial 7: Data Versioning",
+    "content": ". | Lecture: L06 | Description: Learn about versioning practices in development. Particularly, how to use DVC for data versioning. | GCP GitHub URL: DVC | . ",
+    "url": "/tutorials_demo/#tutorial-7-data-versioning",
     
-    "relUrl": "/tutorials_demo/#tutorial-7-versioning"
+    "relUrl": "/tutorials_demo/#tutorial-7-data-versioning"
   },"68": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 8: LLM-RAG",
@@ -498,7 +498,7 @@
   },"71": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 11: LLM-Fine Tuning",
-    "content": ". | Lecture: L09 | Description: LLM Fine Tuning | GCP GitHub URL: LLM Fine Tuning | . ",
+    "content": ". | Lecture: L09 | Description: LLM Fine Tuning using PEFT | GCP GitHub URL: LLM Fine Tuning | . ",
     "url": "/tutorials_demo/#tutorial-11-llm-fine-tuning",
     
     "relUrl": "/tutorials_demo/#tutorial-11-llm-fine-tuning"
@@ -518,11 +518,11 @@
     "relUrl": "/tutorials_demo/#tutorial-13-experiment-tracking"
   },"74": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 14: Serveless Model Training with Vertex AI",
-    "content": ". | Lecture: L12 | Description: Advanced Training Workflows | GCP GitHub URL: Serverless Model Training | . ",
-    "url": "/tutorials_demo/#tutorial-14-serveless-model-training-with-vertex-ai",
+    "title": "Tutorial 14: Advanced Workflow: Serveless Model Training with Vertex AI",
+    "content": ". | Lecture: L12 | Description: Serveless Model Training with Vertex AI | GCP GitHub URL: Serverless Model Training | . ",
+    "url": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai",
     
-    "relUrl": "/tutorials_demo/#tutorial-14-serveless-model-training-with-vertex-ai"
+    "relUrl": "/tutorials_demo/#tutorial-14-advanced-workflow-serveless-model-training-with-vertex-ai"
   },"75": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 15: Cloud Function and Cloud Run",
@@ -532,22 +532,22 @@
     "relUrl": "/tutorials_demo/#tutorial-15-cloud-function-and-cloud-run"
   },"76": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 16: Model Deployment",
-    "content": ". | Lecture: L15 | Description: Model Deployment | GCP GitHub URL: Model Deployment | . ",
-    "url": "/tutorials_demo/#tutorial-16-model-deployment",
+    "title": "Tutorial 16: Model Deployment using Vertex AI",
+    "content": ". | Lecture: L15 | Description: Model Deployment using Vertex AI | GCP GitHub URL: Model Deployment | . ",
+    "url": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai",
     
-    "relUrl": "/tutorials_demo/#tutorial-16-model-deployment"
+    "relUrl": "/tutorials_demo/#tutorial-16-model-deployment-using-vertex-ai"
   },"77": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 17: ML Workflow",
-    "content": ". | Lecture: L15 | Description: ML Workflow | GCP GitHub URL: ML Workflow | . ",
+    "content": ". | Lecture: L15 | Description: Vertex AI ML Workflow for pipeline. Data Processing, data collection, model training, model deployment. | GCP GitHub URL: ML Workflow | . ",
     "url": "/tutorials_demo/#tutorial-17-ml-workflow",
     
     "relUrl": "/tutorials_demo/#tutorial-17-ml-workflow"
   },"78": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 18: Deploy LLM on VM",
-    "content": ". | Lecture: L15 | Description: Deploy LLM on VM | GCP GitHub URL: LLM on VM | . ",
+    "content": ". | Lecture: - | Description: Deploy your own LLM on VM. These are the steps to deploy a LLM on VM with all the scripts and code. | GCP GitHub URL: LLM on VM | . ",
     "url": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm",
     
     "relUrl": "/tutorials_demo/#tutorial-18-deploy-llm-on-vm"
@@ -582,32 +582,39 @@
   },"83": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 23: Backend and FastAPI",
-    "content": ". | Lecture: L18 | Description: Cheese App APIs | GCP GitHub URL: App v2 | . ",
+    "content": ". | Lecture: L18 | Description: Cheese App APIs | GCP GitHub URL: App v2: FastAPI Backend | . ",
     "url": "/tutorials_demo/#tutorial-23-backend-and-fastapi",
     
     "relUrl": "/tutorials_demo/#tutorial-23-backend-and-fastapi"
   },"84": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 24: Frontend Simple",
-    "content": ". | Lecture: L18 | Description: Frontend Simple | GCP GitHub URL: App v2 | . ",
+    "content": ". | Lecture: L18 | Description: Frontend Simple | GCP GitHub URL: App v2: Frontend Simple | . ",
     "url": "/tutorials_demo/#tutorial-24-frontend-simple",
     
     "relUrl": "/tutorials_demo/#tutorial-24-frontend-simple"
   },"85": {
     "doc": "Tutorials / Demo",
     "title": "Tutorial 25: Frontend React",
-    "content": ". | Lecture: L18 | Description: Frontend App (React) | GCP GitHub URL: App v2 | . ",
+    "content": ". | Lecture: L18 | Description: Frontend App (React) | GCP GitHub URL: App v2: Frontend React | . ",
     "url": "/tutorials_demo/#tutorial-25-frontend-react",
     
     "relUrl": "/tutorials_demo/#tutorial-25-frontend-react"
   },"86": {
     "doc": "Tutorials / Demo",
-    "title": "Tutorial 26: Deployment to GCP",
-    "content": ". | Lecture: L19 | Description: Deployment to GCP | GCP GitHub URL: App v3 | . ",
-    "url": "/tutorials_demo/#tutorial-26-deployment-to-gcp",
+    "title": "Tutorial 26: Deployment of the full app to GCP",
+    "content": ". | Lecture: L19 | Description: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible. | GCP GitHub URL: App v3: Deployment to GCP | . ",
+    "url": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp",
     
-    "relUrl": "/tutorials_demo/#tutorial-26-deployment-to-gcp"
+    "relUrl": "/tutorials_demo/#tutorial-26-deployment-of-the-full-app-to-gcp"
   },"87": {
+    "doc": "Tutorials / Demo",
+    "title": "Tutorial 27: Deployment with Scaling using Kubernetes",
+    "content": ". | Lecture: L20 | Description: Deployment with Scaling using Kubernetes | GCP GitHub URL: App v3: Deployment with Scaling using Kubernetes | . ",
+    "url": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes",
+    
+    "relUrl": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes"
+  },"88": {
     "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",

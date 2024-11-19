@@ -182,3 +182,10 @@ nav_order: 2
 - **Lecture**: [L19](../assets/lectures/lecture19/L19_ansible_operations.pdf)
 - **Description**: Deployment to GCP using Ansible. Manual steps to deploy the app to GCP and automate using Ansible.
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
+
+
+
+## Tutorial 27: Deployment with Scaling using Kubernetes
+- **Lecture**: [L20](../assets/lectures/lecture20/L20_kubernetes_operations_scaling.pdf)
+- **Description**: Deployment with Scaling using Kubernetes
+- **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
