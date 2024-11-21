@@ -1,15 +1,16 @@
 ---
 layout: home
-title: AC215 
+title: "AC215: MLOps, LLMOps & AIOps - Productionizing AI Systems"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: AC215 
+  name: "AC215: MLOps & LLMOps Course"
+  description: "Learn MLOps, LLMOps, and AIOps fundamentals. Master production AI systems, LLM deployment, and machine learning operations at Harvard."
+  keywords: "MLOps, LLMOps, AIOps, machine learning operations, LLM deployment, AI systems, production AI"
 ---
 
-
-# **Productionizing AI (AI-Ops)**: AC215 
+# **MLOps & LLMOps: Production AI Systems** - AC215
 {:.no_toc}
 
 ## Table of contents
