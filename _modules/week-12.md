@@ -11,4 +11,4 @@ Nov 19
 
 Nov 21
 : Final: CI/CD releases   
-  : [Lecture 21]((../assets/lectures/lecture21/under-construction-gif-17.gif))
+  : [Lecture 21](../assets/lectures/lecture21/L21_operations_automation.pdf)
