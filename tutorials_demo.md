@@ -184,8 +184,13 @@ nav_order: 2
 - **GCP GitHub URL**: [App v3: Deployment to GCP](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-to-gcp)
 
 
-
 ## Tutorial 27: Deployment with Scaling using Kubernetes
 - **Lecture**: [L20](../assets/lectures/lecture20/L20_kubernetes_operations_scaling.pdf)
 - **Description**: Deployment with Scaling using Kubernetes
 - **GCP GitHub URL**: [App v3: Deployment with Scaling using Kubernetes](https://github.com/dlops-io/cheese-app-v3?tab=readme-ov-file#deployment-with-scaling-using-kubernetes)
+
+
+## Tutorial 28: Continuous Integration and Continuous Deployment
+- **Lecture**: [L21](../assets/lectures/lecture21/L21_operations_automation.pdf)
+- **Description**: Continuous Integration and Continuous Deployment
+- **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4#cheese-app---automation)

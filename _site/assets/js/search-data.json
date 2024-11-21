@@ -616,6 +616,13 @@
     "relUrl": "/tutorials_demo/#tutorial-27-deployment-with-scaling-using-kubernetes"
   },"88": {
     "doc": "Tutorials / Demo",
+    "title": "Tutorial 28: Continuous Integration and Continuous Deployment",
+    "content": ". | Lecture: L21 | Description: Continuous Integration and Continuous Deployment | GCP GitHub URL: App v4: Continuous Integration and Continuous Deployment | . ",
+    "url": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment",
+    
+    "relUrl": "/tutorials_demo/#tutorial-28-continuous-integration-and-continuous-deployment"
+  },"89": {
+    "doc": "Tutorials / Demo",
     "title": "Tutorials / Demo",
     "content": " ",
     "url": "/tutorials_demo/",
