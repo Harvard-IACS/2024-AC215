@@ -194,3 +194,4 @@ nav_order: 2
 - **Lecture**: [L21](../assets/lectures/lecture21/L21_operations_automation.pdf)
 - **Description**: Continuous Integration and Continuous Deployment
 - **GCP GitHub URL**: [App v4: Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-v4#cheese-app---automation)
+- **AWS GitHub URL**: No K8s [App: AWS - Continuous Integration and Continuous Deployment](https://github.com/dlops-io/cheese-app-aws)
