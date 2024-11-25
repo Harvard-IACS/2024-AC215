@@ -60,7 +60,7 @@ The final milestone focuses on three key areas:
     - Live demo of the application in action.
     - Challenges faced and solutions implemented.
   - Submit the video in **MP4 format** with a minimum resolution of 720p.
-- **Blog Post (See [Ed for more details](https://edstem.org/us/courses/58478/discussion/5770637)**:
+- **Blog Post (See [Ed for more details](https://edstem.org/us/courses/58478/discussion/5770637))**:
   - Write a **600–800 word Medium blog post** summarizing your project for a general audience. The post should highlight the problem, solution, technical approach, and impact.
   - Include visuals or diagrams where appropriate.
 - **Self and Peer Review Forms**:
