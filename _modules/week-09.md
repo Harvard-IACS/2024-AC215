@@ -4,7 +4,7 @@ title: Week 9 - ML Workflows with Vertex AI, Midterm
 
 Oct 29
 : ML Workflows with Vertex AI
-  : [Lecture 15](../assets/lectures/lecture15/L15_ml_workflow_management.pdf)
+  : [Lecture 15](../assets/lectures/lecture15/L15_vertex_ai_ml_workflow_management.pdf)
 
 
 Oct 31 
