@@ -118,7 +118,7 @@ nav_order: 2
 
 
 ## Tutorial 16: Model Deployment using Vertex AI
-- **Lecture**: [L15](../assets/lectures/lecture15/L15_ml_workflow_management.pdf)
+- **Lecture**: [L15](../assets/lectures/lecture15/L15_vertex_ai_ml_workflow_management)
 - **Description**: Model Deployment using Vertex AI
 - **GCP GitHub URL**: [Model Deployment](https://github.com/dlops-io/model-deployment)
 
