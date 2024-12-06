@@ -48,3 +48,7 @@ nav_order: 7
 | **33. Reverie** <br><br> Reverie is an AI-powered knowledge exploration platform that redefines learning through intuitive navigation and dynamic pathways | <img src="../assets/projects/Reverie.png" width="200"/> |
 | **34. Game, Set, Match** <br><br> Game, Set, Match is an online application that aims to predict the winner between two profession tennis opponents. The prediction model is trained on a large public data set of past matches and their results. | <img src="../assets/projects/GameSetMatch.png" width="200"/> |
 | **35. CarFever** <br><br> In this project, we aim to develop an application that can accurately identify the car model, make, and year from user-uploaded photos. | <img src="../assets/projects/CarFever.jpg" width="200"/> |
+| **36. MediScribe** <br><br> MediScribe allows physicians to record conversations with their patients and generate an initial draft of an electronic medical record, which they can later review and edit. This essentially automates a time-intensive manual process and allows physicians to dedicate more time towards providing healthcare to their patients rather than recordkeeping.  | <img src="../assets/projects/MediScribe.png" width="200"/> |
+| **37. Paper with Data** <br><br> Paper with Data is a search engine enabling scholars to search for papers with high relevance with the exact data variables they inputed. It aims to provide a fine-grained search logic to accelerate the research process. | <img src="../assets/projects/PaperWithData.png" width="200"/> |
+
+
